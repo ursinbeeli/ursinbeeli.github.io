@@ -308,6 +308,8 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-03-31,Postkarten,Sonstiges,3.72,CHF,Bulgarien,BG,Kjustendil,Stob,42.0950607,23.1066482
 2025-04-01,Camping,Standkosten,29.48,CHF,Bulgarien,BG,Kjustendil,Saparewa Banja,42.2889464,23.2634537
 2025-04-02,Kleider waschen,Wäsche,3.43,CHF,Bulgarien,BG,Kjustendil,Saparewa Banja,42.2889464,23.2634537
+2025-04-04,Supermarkt,Lebensmittel,10.76,CHF,Bulgarien,BG,Widin,Belogradchik,43.605892,22.6117153
+2025-04-05,Supermarkt,Lebensmittel,6.99,CHF,Bulgarien,BG,Widin,Belogradchik,43.605892,22.6117153
 2025-04-07,Supermarkt,Lebensmittel,25.02,CHF,Bulgarien,BG,Widin,Widin,43.9857242,22.8772194
 2025-04-07,Kosmetik,Kosmetik,26.0,CHF,Bulgarien,BG,Widin,Widin,43.9857242,22.8772194
 2025-04-07,Maut Brücke,Maut,5.88,CHF,Rumänien,RO,Dolj,Calafat,43.9942983,22.9337027
