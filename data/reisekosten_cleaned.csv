@@ -1,32 +1,32 @@
 Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat,lon
-2024-03-11,Coop,Lebensmittel,64.7,CHF,Schweiz,CH,Graubünden,Chur,46.854747,9.5264904
-2024-03-11,Diesel,Treibstoff,65.0,CHF,Schweiz,CH,Graubünden,Davos,46.796198,9.8236892
-2024-03-11,AD BLUE,Treibstoff,8.0,CHF,Schweiz,CH,Graubünden,Davos,46.796198,9.8236892
-2024-04-11,Kaffee,Gastro,5.77,CHF,Italien,IT,Trentino-Alto Adige,Meran,46.6695547,11.1594185
-2024-04-11,Spar,Lebensmittel,22.75,CHF,Italien,IT,Trentino-Alto Adige,Meran,46.6695547,11.1594185
-2024-04-11,Bar,Gastro,18.9,CHF,Italien,IT,Trentino-Alto Adige,Meran,46.6695547,11.1594185
-2024-04-11,Schüttelbrot,Lebensmittel,9.88,CHF,Italien,IT,Trentino-Alto Adige,Meran,46.6695547,11.1594185
-2024-04-11,Pinsa,Gastro,41.86,CHF,Italien,IT,Trentino-Alto Adige,Meran,46.6695547,11.1594185
-2024-05-11,Stellplatz,Standkosten,30.6,CHF,Italien,IT,Trentino-Alto Adige,Meran,46.6695547,11.1594185
-2024-06-11,Kaffee,Gastro,5.1,CHF,Italien,IT,Trentino-Alto Adige,Lajen,46.6092289,11.564263
-2024-06-11,Gemüse,Lebensmittel,2.0,CHF,Italien,IT,Trentino-Alto Adige,Lajen,46.6092289,11.564263
-2024-06-11,Stellplatz,Standkosten,9.45,CHF,Italien,IT,Trentino-Alto Adige,Santa Cristina Gherdeina,46.5590697,11.7154906
-2024-06-11,Supermarkt,Lebensmittel,26.65,CHF,Italien,IT,Trentino-Südtirol,Santa Cristina Valgardena,46.5590697,11.7154906
-2024-07-11,Pizza,Gastro,40.15,CHF,Italien,IT,Veneto,Caprile,46.4378155,11.9953226
-2024-08-11,Supermarkt,Lebensmittel,32.1,CHF,Italien,IT,Veneto,Caprile,46.4378155,11.9953226
-2024-08-11,Früchte & Gemüse,Lebensmittel,5.95,CHF,Italien,IT,Veneto,Caprile,46.4378155,11.9953226
-2024-08-11,Kaffee,Gastro,8.6,CHF,Italien,IT,Veneto,Agordo,46.2821471,12.034981
-2024-09-11,Brot & Gipfeli,Lebensmittel,4.81,CHF,Italien,IT,Friuli-Venezia Giulia,Villa Vicentina,45.8174624,13.3969102
-2024-09-11,Maut,Maut,8.2,CHF,Kroatien,HR,Istria,Pula,44.8702281,13.8455311
-2024-10-11,Brot,Lebensmittel,6.5,CHF,Kroatien,HR,Istria,Pula,44.8702281,13.8455311
-2024-10-11,Bier,Gastro,8.5,CHF,Kroatien,HR,Istria,Pula,44.8702281,13.8455311
+2024-11-03,Coop,Lebensmittel,64.7,CHF,Schweiz,CH,Graubünden,Chur,46.854747,9.5264904
+2024-11-03,Diesel,Treibstoff,65.0,CHF,Schweiz,CH,Graubünden,Davos,46.796198,9.8236892
+2024-11-03,AD BLUE,Treibstoff,8.0,CHF,Schweiz,CH,Graubünden,Davos,46.796198,9.8236892
+2024-11-04,Kaffee,Gastro,5.77,CHF,Italien,IT,Trentino-Alto Adige,Meran,46.6695547,11.1594185
+2024-11-04,Spar,Lebensmittel,22.75,CHF,Italien,IT,Trentino-Alto Adige,Meran,46.6695547,11.1594185
+2024-11-04,Bar,Gastro,18.9,CHF,Italien,IT,Trentino-Alto Adige,Meran,46.6695547,11.1594185
+2024-11-04,Schüttelbrot,Lebensmittel,9.88,CHF,Italien,IT,Trentino-Alto Adige,Meran,46.6695547,11.1594185
+2024-11-04,Pinsa,Gastro,41.86,CHF,Italien,IT,Trentino-Alto Adige,Meran,46.6695547,11.1594185
+2024-11-05,Stellplatz,Standkosten,30.6,CHF,Italien,IT,Trentino-Alto Adige,Meran,46.6695547,11.1594185
+2024-11-06,Kaffee,Gastro,5.1,CHF,Italien,IT,Trentino-Alto Adige,Lajen,46.6092289,11.564263
+2024-11-06,Gemüse,Lebensmittel,2.0,CHF,Italien,IT,Trentino-Alto Adige,Lajen,46.6092289,11.564263
+2024-11-06,Stellplatz,Standkosten,9.45,CHF,Italien,IT,Trentino-Alto Adige,Santa Cristina Gherdeina,46.5590697,11.7154906
+2024-11-06,Supermarkt,Lebensmittel,26.65,CHF,Italien,IT,Trentino-Südtirol,Santa Cristina Valgardena,46.5590697,11.7154906
+2024-11-07,Pizza,Gastro,40.15,CHF,Italien,IT,Veneto,Caprile,46.4378155,11.9953226
+2024-11-08,Supermarkt,Lebensmittel,32.1,CHF,Italien,IT,Veneto,Caprile,46.4378155,11.9953226
+2024-11-08,Früchte & Gemüse,Lebensmittel,5.95,CHF,Italien,IT,Veneto,Caprile,46.4378155,11.9953226
+2024-11-08,Kaffee,Gastro,8.6,CHF,Italien,IT,Veneto,Agordo,46.2821471,12.034981
+2024-11-09,Brot & Gipfeli,Lebensmittel,4.81,CHF,Italien,IT,Friuli-Venezia Giulia,Villa Vicentina,45.8174624,13.3969102
+2024-11-09,Maut,Maut,8.2,CHF,Kroatien,HR,Istria,Pula,44.8702281,13.8455311
+2024-11-10,Brot,Lebensmittel,6.5,CHF,Kroatien,HR,Istria,Pula,44.8702281,13.8455311
+2024-11-10,Bier,Gastro,8.5,CHF,Kroatien,HR,Istria,Pula,44.8702281,13.8455311
 2024-11-11,Supermarkt,Lebensmittel,13.48,CHF,Kroatien,HR,Istria,Pula,44.8702281,13.8455311
-2024-12-11,Camping,Standkosten,64.89,CHF,Kroatien,HR,Istria,Pula,44.8702281,13.8455311
-2024-12-11,Diesel,Treibstoff,32.8,CHF,Kroatien,HR,Istria,Pula,44.8702281,13.8455311
-2024-12-11,Supermarkt,Lebensmittel,25.05,CHF,Kroatien,HR,Istria,Pula,44.8702281,13.8455311
+2024-11-12,Camping,Standkosten,64.89,CHF,Kroatien,HR,Istria,Pula,44.8702281,13.8455311
+2024-11-12,Diesel,Treibstoff,32.8,CHF,Kroatien,HR,Istria,Pula,44.8702281,13.8455311
+2024-11-12,Supermarkt,Lebensmittel,25.05,CHF,Kroatien,HR,Istria,Pula,44.8702281,13.8455311
 2024-11-13,Diesel,Treibstoff,88.3,CHF,Kroatien,HR,Zadar,Starigrad-Paklenica,44.2953914,15.4390652
 2024-11-14,Autowäsche,Fahrzeugunterhalt,6.5,CHF,Kroatien,HR,Zadar,Bibinje,44.071152,15.2838133
-2024-11-14,Supermarkt,Lebensmittel,66.5,CHF,Kroatien,HR,Zadar,Zadar,44.1118327,15.2288559
+2024-11-14,Supermarkt,Lebensmittel,66.5,CHF,Kroatien,HR,Zadar,Zadar,44.1168594,15.2353257
 2024-11-16,Kaffee,Gastro,5.0,CHF,Kroatien,HR,Šibenik-Knin,Primošten,43.5882028,15.9248166
 2024-11-16,Supermarkt,Lebensmittel,24.85,CHF,Kroatien,HR,Šibenik-Knin,Primošten,43.5882028,15.9248166
 2024-11-17,Restaurant,Gastro,50.0,CHF,Kroatien,HR,Šibenik-Knin,Primošten,43.5882028,15.9248166
@@ -67,32 +67,32 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2024-11-30,Restaurant,Gastro,23.75,CHF,Albanien,AL,Durrës,Krujë,41.511251,19.792852
 2024-11-30,Camping,Standkosten,42.28,CHF,Albanien,AL,Durrës,Krujë,41.511251,19.792852
 2024-11-30,Kleider waschen,Wäsche,1.9,CHF,Albanien,AL,Durrës,Krujë,41.511251,19.792852
-2024-01-12,Parkgebühr,Standkosten,7.6,CHF,Albanien,AL,Berat,Berat,40.7018636,19.9580758
-2024-01-12,Postkarten,Sonstiges,1.86,CHF,Albanien,AL,Berat,Berat,40.7018636,19.9580758
-2024-01-12,Snacks,Gastro,3.33,CHF,Albanien,AL,Berat,Berat,40.7018636,19.9580758
-2024-01-12,Granatapfelsaft,Gastro,3.8,CHF,Albanien,AL,Berat,Berat,40.7018636,19.9580758
-2024-01-12,Süssgebäck,Lebensmittel,3.04,CHF,Albanien,AL,Berat,Berat,40.7018636,19.9580758
-2024-01-12,Früchte & Gemüse,Lebensmittel,3.71,CHF,Albanien,AL,Berat,Berat,40.7018636,19.9580758
-2024-01-12,Glühwein,Gastro,15.2,CHF,Albanien,AL,Berat,Berat,40.7018636,19.9580758
-2024-02-12,Kaffee,Gastro,2.85,CHF,Albanien,AL,Berat,Berat,40.7018636,19.9580758
-2024-04-12,Wine Tasting & Abendessen,Gastro,55.9,CHF,Albanien,AL,Fier,Kolonjë,40.8254518,19.6048673
-2024-08-12,Supermarkt,Lebensmittel,53.96,CHF,Albanien,AL,Fier,Fier,40.7251118,19.5582079
-2024-08-12,Brot,Lebensmittel,1.3,CHF,Albanien,AL,Fier,Fier,40.7251118,19.5582079
-2024-09-12,Postkarten,Sonstiges,1.4,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
-2024-09-12,Abendessen,Gastro,31.35,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
-2024-10-12,Schloss,Aktivitäten,7.44,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
-2024-10-12,Briefmarken,Sonstiges,1.67,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
-2024-10-12,Kaffee,Gastro,3.26,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
-2024-10-12,Süssgebäck,Gastro,6.18,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
-2024-10-12,Camping,Standkosten,13.95,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
-2024-10-12,Brot,Lebensmittel,1.81,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
-2024-10-12,Früchte & Gemüse,Lebensmittel,2.38,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
-2024-10-12,Supermarkt,Lebensmittel,11.74,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
-2024-11-12,Parkgebühr,Standkosten,3.8,CHF,Albanien,AL,Vlorë,Finiq,39.9057546,20.0575582
-2024-11-12,Restaurant,Gastro,52.08,CHF,Griechenland,GR,Epirus,Arta,39.1613205,20.986264
+2024-12-01,Parkgebühr,Standkosten,7.6,CHF,Albanien,AL,Berat,Berat,40.7018636,19.9580758
+2024-12-01,Postkarten,Sonstiges,1.86,CHF,Albanien,AL,Berat,Berat,40.7018636,19.9580758
+2024-12-01,Snacks,Gastro,3.33,CHF,Albanien,AL,Berat,Berat,40.7018636,19.9580758
+2024-12-01,Granatapfelsaft,Gastro,3.8,CHF,Albanien,AL,Berat,Berat,40.7018636,19.9580758
+2024-12-01,Süssgebäck,Lebensmittel,3.04,CHF,Albanien,AL,Berat,Berat,40.7018636,19.9580758
+2024-12-01,Früchte & Gemüse,Lebensmittel,3.71,CHF,Albanien,AL,Berat,Berat,40.7018636,19.9580758
+2024-12-01,Glühwein,Gastro,15.2,CHF,Albanien,AL,Berat,Berat,40.7018636,19.9580758
+2024-12-02,Kaffee,Gastro,2.85,CHF,Albanien,AL,Berat,Berat,40.7018636,19.9580758
+2024-12-04,Wine Tasting & Abendessen,Gastro,55.9,CHF,Albanien,AL,Fier,Kolonjë,40.8254518,19.6048673
+2024-12-08,Supermarkt,Lebensmittel,53.96,CHF,Albanien,AL,Fier,Fier,40.7251118,19.5582079
+2024-12-08,Brot,Lebensmittel,1.3,CHF,Albanien,AL,Fier,Fier,40.7251118,19.5582079
+2024-12-09,Postkarten,Sonstiges,1.4,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
+2024-12-09,Abendessen,Gastro,31.35,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
+2024-12-10,Schloss,Aktivitäten,7.44,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
+2024-12-10,Briefmarken,Sonstiges,1.67,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
+2024-12-10,Kaffee,Gastro,3.26,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
+2024-12-10,Süssgebäck,Gastro,6.18,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
+2024-12-10,Camping,Standkosten,13.95,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
+2024-12-10,Brot,Lebensmittel,1.81,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
+2024-12-10,Früchte & Gemüse,Lebensmittel,2.38,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
+2024-12-10,Supermarkt,Lebensmittel,11.74,CHF,Albanien,AL,Gjirokastër,Gjirokastër,40.0770871,20.1393359
+2024-12-11,Parkgebühr,Standkosten,3.8,CHF,Albanien,AL,Vlorë,Finiq,39.9057546,20.0575582
+2024-12-11,Restaurant,Gastro,52.08,CHF,Griechenland,GR,Epirus,Arta,39.1613205,20.986264
 2024-12-12,Diesel,Treibstoff,99.15,CHF,Griechenland,GR,Epirus,Arta,39.1613205,20.986264
 2024-12-12,Kaffee,Gastro,1.95,CHF,Griechenland,GR,Epirus,Arta,39.1613205,20.986264
-2024-12-12,Supermarkt,Lebensmittel,27.21,CHF,Griechenland,GR,Ionische Inseln,Agios Nikitas,38.7883255,20.6125385
+2024-12-12,Supermarkt,Lebensmittel,27.21,CHF,Griechenland,GR,Ionische Inseln,Agios Nikitas,38.7878428,20.6120831
 2024-12-18,Supermarkt,Lebensmittel,11.27,CHF,Griechenland,GR,Ionische Inseln,Athani,38.6639111,20.5699308
 2024-12-19,Bäckerei,Lebensmittel,13.87,CHF,Griechenland,GR,Ionische Inseln,Nydri,38.7069481,20.7098869
 2024-12-19,Supermarkt,Lebensmittel,18.68,CHF,Griechenland,GR,Ionische Inseln,Nydri,38.7069481,20.7098869
@@ -112,16 +112,16 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2024-12-30,Kaffee,Gastro,6.12,CHF,Griechenland,GR,Westgriechenland,Krathio,38.1587573,22.3430749
 2024-12-30,Kaffeebohnen,Lebensmittel,35.75,CHF,Griechenland,GR,Westgriechenland,Krathio,38.1587573,22.3430749
 2024-12-30,Supermarkt,Lebensmittel,24.59,CHF,Griechenland,GR,Westgriechenland,Krathio,38.1587573,22.3430749
-2025-04-01,Supermarkt,Lebensmittel,35.3,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
-2025-04-01,Decathlon,Sonstiges,210.87,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
-2025-06-01,Autowäsche,Fahrzeugunterhalt,9.37,CHF,Griechenland,GR,Peloponnes,Lechaio,37.9066483,22.8250689
-2025-08-01,Supermarkt,Lebensmittel,17.13,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
-2025-08-01,Kaffee,Gastro,5.63,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
-2025-08-01,Kleider waschen,Wäsche,2.83,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
-2025-09-01,Restaurant,Gastro,81.99,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
-2025-10-01,Maut,Maut,26.85,CHF,Griechenland,GR,Peloponnes,Korinth - Kalamata,37.7636557,22.644688
-2025-10-01,Supermarkt,Lebensmittel,94.01,CHF,Griechenland,GR,Peloponnes,Tripoli,37.5102911,22.3724241
-2025-12-01,Diesel,Treibstoff,70.2,CHF,Griechenland,GR,Peloponnes,Memi,37.2756391,21.697691
+2025-01-04,Supermarkt,Lebensmittel,35.3,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
+2025-01-04,Decathlon,Sonstiges,210.87,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
+2025-01-06,Autowäsche,Fahrzeugunterhalt,9.37,CHF,Griechenland,GR,Peloponnes,Lechaio,37.9066483,22.8250689
+2025-01-08,Supermarkt,Lebensmittel,17.13,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
+2025-01-08,Kaffee,Gastro,5.63,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
+2025-01-08,Kleider waschen,Wäsche,2.83,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
+2025-01-09,Restaurant,Gastro,81.99,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
+2025-01-10,Maut,Maut,26.85,CHF,Griechenland,GR,Peloponnes,Korinth - Kalamata,37.7839257,22.6699472
+2025-01-10,Supermarkt,Lebensmittel,94.01,CHF,Griechenland,GR,Peloponnes,Tripoli,37.5102911,22.3724241
+2025-01-12,Diesel,Treibstoff,70.2,CHF,Griechenland,GR,Peloponnes,Memi,37.2756391,21.697691
 2025-01-15,Hofprodukte,Lebensmittel,14.1,CHF,Griechenland,GR,Peloponnes,Elia,36.7516858,22.8036045
 2025-01-17,Supermarkt,Lebensmittel,65.56,CHF,Griechenland,GR,Peloponnes,Kyparissia,37.251085,21.6690119
 2025-01-17,Supermarkt,Lebensmittel,11.1,CHF,Griechenland,GR,Peloponnes,Kyparissia,37.251085,21.6690119
@@ -160,35 +160,35 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-01-31,Fähre,Fähre,3.79,CHF,Griechenland,GR,Peloponnes,Elafonisos,36.4836016,22.9589842
 2025-01-31,Supermarkt,Lebensmittel,7.01,CHF,Griechenland,GR,Peloponnes,Elafonisos,36.4836016,22.9589842
 2025-01-31,Fähre,Fähre,3.79,CHF,Griechenland,GR,Peloponnes,Elafonisos,36.4836016,22.9589842
-2025-01-02,Stellplatz,Standkosten,5.68,CHF,Griechenland,GR,Peloponnes,Viglafia,36.5268558,22.9842319
+2025-02-01,Stellplatz,Standkosten,5.68,CHF,Griechenland,GR,Peloponnes,Viglafia,36.5268558,22.9842319
 2025-02-02,Restaurant,Gastro,22.75,CHF,Griechenland,GR,Peloponnes,Monemvasia,36.687856,23.0505652
 2025-02-02,Postkarten,Sonstiges,0.47,CHF,Griechenland,GR,Peloponnes,Monemvasia,36.687856,23.0505652
-2025-03-02,Diesel,Treibstoff,108.31,CHF,Griechenland,GR,Peloponnes,Sparta,37.0811452,22.4248618
-2025-04-02,Supermarkt,Lebensmittel,37.2,CHF,Griechenland,GR,Peloponnes,Messini,37.0309471,21.9259569
-2025-04-02,Baumarkt,Sonstiges,6.12,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-04-02,Gyros Bude,Gastro,14.66,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-04-02,Wasser,Lebensmittel,0.47,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-05-02,Bäckerei,Gastro,6.31,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-05-02,China Store,Sonstiges,10.83,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-05-02,Supermarkt,Lebensmittel,2.28,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-05-02,Schmuck Nina,Sonstiges,32.04,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-05-02,Kaffee,Gastro,1.88,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-05-02,Kosmetik Nina,Kosmetik,8.67,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-05-02,Supermarkt,Lebensmittel,6.64,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-06-02,Supermarkt,Lebensmittel,2.41,CHF,Griechenland,GR,Peloponnes,Messini,37.0309471,21.9259569
-2025-06-02,Baumarkt,Sonstiges,0.94,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-07-02,Vegan Store,Lebensmittel,18.33,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-08-02,Markt,Lebensmittel,42.85,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-08-02,Snacks,Gastro,8.21,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-09-02,Gyros Bude,Gastro,28.31,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-09-02,Bar,Gastro,34.34,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-09-02,Gyros Bude,Gastro,3.58,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-09-02,Wasser,Lebensmittel,0.95,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-10-02,Kleider waschen,Wäsche,9.45,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-10-02,Bäckerei Athanasiou,Lebensmittel,5.65,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-10-02,Supermarkt,Lebensmittel,56.7,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-11-02,China Store,Sonstiges,14.19,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-11-02,Historische Stätte,Aktivitäten,11.35,CHF,Griechenland,GR,Peloponnes,Mystras,37.072657,22.3679925
+2025-02-03,Diesel,Treibstoff,108.31,CHF,Griechenland,GR,Peloponnes,Sparta,37.0811452,22.4248618
+2025-02-04,Supermarkt,Lebensmittel,37.2,CHF,Griechenland,GR,Peloponnes,Messini,37.0309471,21.9259569
+2025-02-04,Baumarkt,Sonstiges,6.12,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-04,Gyros Bude,Gastro,14.66,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-04,Wasser,Lebensmittel,0.47,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-05,Bäckerei,Gastro,6.31,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-05,China Store,Sonstiges,10.83,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-05,Supermarkt,Lebensmittel,2.28,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-05,Schmuck Nina,Sonstiges,32.04,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-05,Kaffee,Gastro,1.88,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-05,Kosmetik Nina,Kosmetik,8.67,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-05,Supermarkt,Lebensmittel,6.64,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-06,Supermarkt,Lebensmittel,2.41,CHF,Griechenland,GR,Peloponnes,Messini,37.0309471,21.9259569
+2025-02-06,Baumarkt,Sonstiges,0.94,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-07,Vegan Store,Lebensmittel,18.33,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-08,Markt,Lebensmittel,42.85,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-08,Snacks,Gastro,8.21,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-09,Gyros Bude,Gastro,28.31,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-09,Bar,Gastro,34.34,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-09,Gyros Bude,Gastro,3.58,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-09,Wasser,Lebensmittel,0.95,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-10,Kleider waschen,Wäsche,9.45,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-10,Bäckerei Athanasiou,Lebensmittel,5.65,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-10,Supermarkt,Lebensmittel,56.7,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-11,China Store,Sonstiges,14.19,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-11,Historische Stätte,Aktivitäten,11.35,CHF,Griechenland,GR,Peloponnes,Mystras,37.072657,22.3679925
 2025-02-13,Bäckerei,Lebensmittel,3.25,CHF,Griechenland,GR,Peloponnes,Leonidio,37.1663308,22.8604198
 2025-02-15,Markt,Lebensmittel,6.75,CHF,Griechenland,GR,Peloponnes,Nafplio,37.5659229,22.8068782
 2025-02-15,Supermarkt,Lebensmittel,26.88,CHF,Griechenland,GR,Peloponnes,Nafplio,37.5659229,22.8068782
@@ -212,58 +212,59 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-02-27,Restaurant,Gastro,31.98,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
 2025-02-28,Kleider waschen,Wäsche,5.64,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
 2025-02-28,Maut,Maut,5.75,CHF,Griechenland,GR,Attika,Elefsina,38.047608,23.5348663
+2025-02-28,Diesel,Treibstoff,78.19,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
 2025-02-28,Bier,Gastro,2.36,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
 2025-02-28,Bier,Gastro,2.83,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
 2025-02-28,Bier,Gastro,3.58,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
 2025-02-28,Restaurant,Gastro,71.39,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
 2025-02-28,Gelatto Nina,Gastro,6.49,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-01-03,Metro,ÖV,2.26,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-01-03,Fruchtsaft,Gastro,7.53,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-01-03,Bougatsa,Gastro,13.17,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-01-03,Bier,Gastro,5.93,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-01-03,Hutladen Ursin,Sonstiges,26.25,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-01-03,Vegan Gyros Nina,Gastro,4.7,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-01-03,Schmuck Nina,Sonstiges,9.43,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-01-03,Kosmetik Nina,Kosmetik,14.58,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-01-03,Bar,Gastro,19.76,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-01-03,Kosmetik Ursin,Kosmetik,55.41,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-01-03,Restaurant,Gastro,30.01,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-01-03,Bäckerei,Lebensmittel,2.35,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-01-03,Gyros,Gastro,3.67,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-01-03,Metro,ÖV,2.26,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-02-03,Metro,ÖV,2.26,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-02-03,Pinsa,Gastro,2.73,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-02-03,Fruchtsaft,Gastro,7.53,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-02-03,Snack Ursin,Gastro,0.94,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-02-03,Bändeli,Sonstiges,4.71,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-02-03,Supermarkt,Lebensmittel,10.91,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-02-03,Restaurant,Gastro,65.86,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-02-03,Metro,ÖV,2.26,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-02-03,Metro,ÖV,2.26,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-02-03,Gyros Bude,Gastro,22.58,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-01,Metro,ÖV,2.26,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-01,Fruchtsaft,Gastro,7.53,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-01,Bougatsa,Gastro,13.17,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-01,Bier,Gastro,5.93,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-01,Hutladen Ursin,Sonstiges,26.25,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-01,Vegan Gyros Nina,Gastro,4.7,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-01,Schmuck Nina,Sonstiges,9.43,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-01,Kosmetik Nina,Kosmetik,14.58,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-01,Bar,Gastro,19.76,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-01,Kosmetik Ursin,Kosmetik,55.41,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-01,Restaurant,Gastro,30.01,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-01,Bäckerei,Lebensmittel,2.35,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-01,Gyros,Gastro,3.67,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-01,Metro,ÖV,2.26,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-02,Metro,ÖV,2.26,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-02,Pinsa,Gastro,2.73,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-02,Fruchtsaft,Gastro,7.53,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-02,Snack Ursin,Gastro,0.94,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-02,Bändeli,Sonstiges,4.71,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-02,Supermarkt,Lebensmittel,10.91,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-02,Restaurant,Gastro,65.86,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-02,Metro,ÖV,2.26,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-02,Metro,ÖV,2.26,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-02,Gyros Bude,Gastro,22.58,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
 2025-03-03,Bier,Gastro,2.64,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
 2025-03-03,Negroni,Gastro,18.83,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
 2025-03-03,Fisch Markt Ursin,Lebensmittel,7.53,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
 2025-03-03,Uber Taxi,ÖV,8.0,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-04-03,Metro,ÖV,2.27,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-04-03,Snack Nina,Gastro,2.83,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-04-03,Kaffee,Gastro,4.25,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-04-03,Kaffeebohnen,Lebensmittel,27.37,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-04-03,Piercing Ursin,Sonstiges,12.18,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-04-03,Schuhe Nina,Sonstiges,80.23,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-04-03,Yogamatte & Matcha Nina,Sonstiges,124.5,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-04-03,Fruchtsaft,Gastro,7.55,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-04-03,Kosmetik Ursin,Kosmetik,4.25,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-04-03,Früchte & Gemüse,Lebensmittel,7.91,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-04-03,Pinsa,Gastro,5.38,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-04-03,Metro,ÖV,2.27,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-04-03,Stellplatz,Standkosten,75.34,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
-2025-05-03,Supermarkt,Lebensmittel,42.0,CHF,Griechenland,GR,Mittelgriechenland,Amarynthos,38.3918746,23.8845294
-2025-09-03,Bäckerei,Lebensmittel,5.1,CHF,Griechenland,GR,Mittelgriechenland,Amarynthos,38.3918746,23.8845294
-2025-09-03,Früchte & Gemüse,Lebensmittel,13.9,CHF,Griechenland,GR,Mittelgriechenland,Kirinthos,38.8091079,23.4443414
-2025-11-03,Supermarkt,Lebensmittel,15.23,CHF,Griechenland,GR,Mittelgriechenland,Loutra Edipsou,38.8573975,23.0422579
-2025-12-03,Kaffee,Gastro,4.43,CHF,Griechenland,GR,Mittelgriechenland,Loutra Edipsou,38.8573975,23.0422579
-2025-12-03,Fähre,Fähre,44.47,CHF,Griechenland,GR,Mittelgriechenland,Loutra Edipsou,38.8573975,23.0422579
+2025-03-04,Metro,ÖV,2.27,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-04,Snack Nina,Gastro,2.83,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-04,Kaffee,Gastro,4.25,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-04,Kaffeebohnen,Lebensmittel,27.37,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-04,Piercing Ursin,Sonstiges,12.18,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-04,Schuhe Nina,Sonstiges,80.23,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-04,Yogamatte & Matcha Nina,Sonstiges,124.5,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-04,Fruchtsaft,Gastro,7.55,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-04,Kosmetik Ursin,Kosmetik,4.25,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-04,Früchte & Gemüse,Lebensmittel,7.91,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-04,Pinsa,Gastro,5.38,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-04,Metro,ÖV,2.27,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-04,Stellplatz,Standkosten,75.34,CHF,Griechenland,GR,Attika,Athen,37.9755648,23.7348324
+2025-03-05,Supermarkt,Lebensmittel,42.0,CHF,Griechenland,GR,Mittelgriechenland,Amarynthos,38.3918746,23.8845294
+2025-03-09,Bäckerei,Lebensmittel,5.1,CHF,Griechenland,GR,Mittelgriechenland,Amarynthos,38.3918746,23.8845294
+2025-03-09,Früchte & Gemüse,Lebensmittel,13.9,CHF,Griechenland,GR,Mittelgriechenland,Kirinthos,38.8091079,23.4443414
+2025-03-11,Supermarkt,Lebensmittel,15.23,CHF,Griechenland,GR,Mittelgriechenland,Loutra Edipsou,38.8573975,23.0422579
+2025-03-12,Kaffee,Gastro,4.43,CHF,Griechenland,GR,Mittelgriechenland,Loutra Edipsou,38.8573975,23.0422579
+2025-03-12,Fähre,Fähre,44.47,CHF,Griechenland,GR,Mittelgriechenland,Loutra Edipsou,38.8573975,23.0422579
 2025-03-13,Supermarkt,Lebensmittel,78.49,CHF,Griechenland,GR,Mittelgriechenland,Lamia,38.8993832,22.433582
 2025-03-13,Kleider waschen,Wäsche,8.68,CHF,Griechenland,GR,Mittelgriechenland,Lamia,38.8993832,22.433582
 2025-03-13,Snack Ursin,Gastro,2.41,CHF,Griechenland,GR,Mittelgriechenland,Lamia,38.8993832,22.433582
@@ -281,6 +282,7 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-03-19,Bäckerei,Lebensmittel,3.35,CHF,Griechenland,GR,Zentralmakedonien,Pylaia,40.6012456,22.9866824
 2025-03-20,Diesel,Treibstoff,7.24,CHF,Griechenland,GR,Zentralmakedonien,Kardia,40.4680227,22.9944764
 2025-03-20,Supermarkt,Lebensmittel,17.47,CHF,Griechenland,GR,Zentralmakedonien,Psakoudia,40.2599783,23.4973022
+2025-03-23,Bar,Gastro,16.29,CHF,Griechenland,GR,Zentralmakedonien,Neos Marmaras,40.0956362,23.7812487
 2025-03-23,Supermarkt,Lebensmittel,6.23,CHF,Griechenland,GR,Zentralmakedonien,Neos Marmaras,40.0956362,23.7812487
 2025-03-23,Restaurant,Gastro,45.05,CHF,Griechenland,GR,Zentralmakedonien,Neos Marmaras,40.0956362,23.7812487
 2025-03-24,Olivenöl,Lebensmittel,30.44,CHF,Griechenland,GR,Zentralmakedonien,Neos Marmaras,40.0956362,23.7812487
@@ -304,14 +306,14 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-03-30,Maut,Maut,1.82,CHF,Griechenland,GR,Zentralmakedonien,Promachonas,41.362639,23.3593671
 2025-03-31,Eintritt Stob Pyramiden,Aktivitäten,3.91,CHF,Bulgarien,BG,Kjustendil,Stob,42.0950607,23.1066482
 2025-03-31,Postkarten,Sonstiges,3.72,CHF,Bulgarien,BG,Kjustendil,Stob,42.0950607,23.1066482
-2025-01-04,Camping,Standkosten,29.48,CHF,Bulgarien,BG,Kjustendil,Saparewa Banja,42.2889464,23.2634537
-2025-02-04,Kleider waschen,Wäsche,3.43,CHF,Bulgarien,BG,Kjustendil,Saparewa Banja,42.2889464,23.2634537
-2025-07-04,Supermarkt,Lebensmittel,25.02,CHF,Bulgarien,BG,Widin,Widin,43.9857242,22.8772194
-2025-07-04,Kosmetik,Kosmetik,26.0,CHF,Bulgarien,BG,Widin,Widin,43.9857242,22.8772194
-2025-07-04,Maut Brücke,Maut,5.88,CHF,Rumänien,RO,Dolj,Calafat,43.9942983,22.9337027
-2025-07-04,Vignette Rumänien,Maut,17.44,CHF,Rumänien,RO,Dolj,Calafat,43.9942983,22.9337027
-2025-11-04,Supermarkt,Lebensmittel,86.54,CHF,Rumänien,RO,Brasov,Rasnov,45.5910307,25.4656159
-2025-11-04,AirBnB,Standkosten,294.95,CHF,Rumänien,RO,Brasov,Rasnov,45.5910307,25.4656159
+2025-04-01,Camping,Standkosten,29.48,CHF,Bulgarien,BG,Kjustendil,Saparewa Banja,42.2889464,23.2634537
+2025-04-02,Kleider waschen,Wäsche,3.43,CHF,Bulgarien,BG,Kjustendil,Saparewa Banja,42.2889464,23.2634537
+2025-04-07,Supermarkt,Lebensmittel,25.02,CHF,Bulgarien,BG,Widin,Widin,43.9857242,22.8772194
+2025-04-07,Kosmetik,Kosmetik,26.0,CHF,Bulgarien,BG,Widin,Widin,43.9857242,22.8772194
+2025-04-07,Maut Brücke,Maut,5.88,CHF,Rumänien,RO,Dolj,Calafat,43.9942983,22.9337027
+2025-04-07,Vignette Rumänien,Maut,17.44,CHF,Rumänien,RO,Dolj,Calafat,43.9942983,22.9337027
+2025-04-11,Supermarkt,Lebensmittel,86.54,CHF,Rumänien,RO,Brasov,Rasnov,45.5910307,25.4656159
+2025-04-11,AirBnB,Standkosten,294.95,CHF,Rumänien,RO,Brasov,Rasnov,45.5910307,25.4656159
 2025-04-15,Supermarkt,Lebensmittel,17.32,CHF,Rumänien,RO,Brasov,Rasnov,45.5910307,25.4656159
 2025-04-15,Schloss,Aktivitäten,26.59,CHF,Rumänien,RO,Brasov,Bran,45.5163111,25.371489
 2025-04-15,Kleider Nina,Sonstiges,29.94,CHF,Rumänien,RO,Brasov,Bran,45.5163111,25.371489
@@ -340,12 +342,12 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-04-28,Supermarkt,Lebensmittel,31.41,CHF,Rumänien,RO,Cluj,Dej,47.1426672,23.8759884
 2025-04-28,Supermarkt,Lebensmittel,5.12,CHF,Rumänien,RO,Cluj,Dej,47.1426672,23.8759884
 2025-04-28,Restaurant,Gastro,18.54,CHF,Rumänien,RO,Maramures,Borsa,47.6554079,24.6639308
-2025-01-05,Souvenir,Sonstiges,1.88,CHF,Rumänien,RO,Maramures,Borsa,47.6554079,24.6639308
-2025-03-05,Supermarkt,Lebensmittel,37.46,CHF,Rumänien,RO,Maramures,Viseu De Sus,47.7099597,24.4311547
-2025-03-05,Cafe,Gastro,2.0,CHF,Rumänien,RO,Maramures,Viseu De Sus,47.7099597,24.4311547
-2025-03-05,Supermarkt,Lebensmittel,7.92,CHF,Rumänien,RO,Maramures,Ocna Sugatag,47.7813212,23.9394772
-2025-04-05,Eintritt Fröhlicher Friedhof,Aktivitäten,3.76,CHF,Rumänien,RO,Maramures,Sapanta,47.9719454,23.6984179
-2025-04-05,Postkarten,Sonstiges,0.38,CHF,Rumänien,RO,Maramures,Sapanta,47.9719454,23.6984179
+2025-05-01,Souvenir,Sonstiges,1.88,CHF,Rumänien,RO,Maramures,Borsa,47.6554079,24.6639308
+2025-05-03,Supermarkt,Lebensmittel,37.46,CHF,Rumänien,RO,Maramures,Viseu De Sus,47.7099597,24.4311547
+2025-05-03,Cafe,Gastro,2.0,CHF,Rumänien,RO,Maramures,Viseu De Sus,47.7099597,24.4311547
+2025-05-03,Supermarkt,Lebensmittel,7.92,CHF,Rumänien,RO,Maramures,Ocna Sugatag,47.7813212,23.9394772
+2025-05-04,Eintritt Fröhlicher Friedhof,Aktivitäten,3.76,CHF,Rumänien,RO,Maramures,Sapanta,47.9719454,23.6984179
+2025-05-04,Postkarten,Sonstiges,0.38,CHF,Rumänien,RO,Maramures,Sapanta,47.9719454,23.6984179
 2025-05-05,Honig,Lebensmittel,9.41,CHF,Rumänien,RO,Maramures,Teceu Mic,48.0030497,23.5808046
 2025-05-05,Diesel,Treibstoff,57.01,CHF,Rumänien,RO,Satu Mare,Negresti-Oas,47.8729032,23.4270648
 2025-05-05,Wischwasser,Fahrzeugunterhalt,3.43,CHF,Rumänien,RO,Satu Mare,Negresti-Oas,47.8729032,23.4270648
@@ -353,49 +355,49 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-05-05,Supermarkt,Lebensmittel,21.11,CHF,Rumänien,RO,Satu Mare,Satu Mare,47.7891763,22.8725598
 2025-05-05,Snacks,Gastro,3.19,CHF,Rumänien,RO,Satu Mare,Satu Mare,47.7891763,22.8725598
 2025-05-05,Baumarkt,Sonstiges,5.74,CHF,Rumänien,RO,Satu Mare,Satu Mare,47.7891763,22.8725598
-2025-09-05,Supermarkt,Lebensmittel,3.57,CHF,Slowakei,SK,Košice,Hrabušice,48.9756056,20.4103349
-2025-09-05,Camping,Standkosten,18.7,CHF,Slowakei,SK,Košice,Hrabušice,48.9756056,20.4103349
-2025-09-05,Getränke,Gastro,17.03,CHF,Slowakei,SK,Košice,Hrabušice,48.9756056,20.4103349
-2025-09-05,Kleider waschen,Wäsche,10.81,CHF,Slowakei,SK,Košice,Hrabušice,48.9756056,20.4103349
-2025-10-05,Postkarten,Sonstiges,4.12,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
-2025-10-05,Supermarkt,Lebensmittel,32.03,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
-2025-10-05,Pivovar,Gastro,14.05,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
-2025-10-05,Restaurant,Gastro,61.1,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
-2025-10-05,Cafe,Gastro,29.89,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
-2025-12-05,Supermarkt,Lebensmittel,36.3,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
+2025-05-09,Supermarkt,Lebensmittel,3.57,CHF,Slowakei,SK,Košice,Hrabušice,48.9756056,20.4103349
+2025-05-09,Camping,Standkosten,18.7,CHF,Slowakei,SK,Košice,Hrabušice,48.9756056,20.4103349
+2025-05-09,Getränke,Gastro,17.03,CHF,Slowakei,SK,Košice,Hrabušice,48.9756056,20.4103349
+2025-05-09,Kleider waschen,Wäsche,10.81,CHF,Slowakei,SK,Košice,Hrabušice,48.9756056,20.4103349
+2025-05-10,Postkarten,Sonstiges,4.12,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
+2025-05-10,Supermarkt,Lebensmittel,32.03,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
+2025-05-10,Pivovar,Gastro,14.05,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
+2025-05-10,Restaurant,Gastro,61.1,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
+2025-05-10,Cafe,Gastro,29.89,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
+2025-05-12,Supermarkt,Lebensmittel,36.3,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
 2025-05-14,Pivovar,Gastro,32.98,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
 2025-05-15,Supermarkt,Lebensmittel,73.63,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
 2025-05-15,Supermarkt,Lebensmittel,2.89,CHF,Slowakei,SK,Žilina,Tvrdošín,49.3341474,19.5554346
-2025-05-15,Diesel,Treibstoff,76.21,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-15,Supermarkt,Lebensmittel,4.29,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
+2025-05-15,Diesel,Treibstoff,76.21,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-15,Supermarkt,Lebensmittel,4.29,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
 2025-05-16,Reifenwechsel,Fahrzeugunterhalt,566.59,CHF,Polen,PL,Kleinpolen,Glogoczow,49.8948023,19.8759729
-2025-05-16,Glace Ursin,Gastro,1.79,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-16,Bettwäsche,Sonstiges,26.87,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-16,Supermarkt,Lebensmittel,12.94,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-17,Tram,ÖV,5.34,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-17,Yogastunde Nina,Sonstiges,10.0,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-17,Matcha Latte Nina,Gastro,4.78,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-17,Postkarten,Sonstiges,6.2,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-17,Bar,Gastro,18.45,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-17,Restaurant,Gastro,66.68,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-17,Pub Ursin,Gastro,11.34,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-19,Supermarkt,Lebensmittel,17.9,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
+2025-05-16,Glace Ursin,Gastro,1.79,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-16,Bettwäsche,Sonstiges,26.87,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-16,Supermarkt,Lebensmittel,12.94,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-17,Tram,ÖV,5.34,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-17,Yogastunde Nina,Sonstiges,10.0,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-17,Matcha Latte Nina,Gastro,4.78,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-17,Postkarten,Sonstiges,6.2,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-17,Bar,Gastro,18.45,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-17,Restaurant,Gastro,66.68,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-17,Pub Ursin,Gastro,11.34,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-19,Supermarkt,Lebensmittel,17.9,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
 2025-05-21,Supermarkt,Lebensmittel,4.82,CHF,Polen,PL,Kleinpolen,Alwernia,50.0690434,19.5396737
 2025-05-23,Supermarkt,Lebensmittel,12.34,CHF,Polen,PL,Kleinpolen,Alwernia,50.0690434,19.5396737
-2025-05-24,Supermarkt,Lebensmittel,28.99,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-24,Schuhe Nina,Sonstiges,82.25,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-24,Kleider Nina,Sonstiges,8.87,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-24,Brille Ursin,Sonstiges,8.89,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-24,Supermarkt,Lebensmittel,9.85,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-24,Supermarkt,Lebensmittel,10.58,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-24,Postkarten,Sonstiges,2.22,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-24,Saft Nina,Gastro,6.67,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-24,Snack Nina,Gastro,3.33,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-24,Tram,ÖV,3.56,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-24,Bar,Gastro,16.23,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-24,Bar,Gastro,8.45,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-24,Zapiekanka,Gastro,3.33,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
-2025-05-24,Pizza & Bier,Gastro,38.68,CHF,Polen,PL,Kleinpolen,Krakau,50.0619474,19.9368564
+2025-05-24,Supermarkt,Lebensmittel,28.99,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-24,Schuhe Nina,Sonstiges,82.25,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-24,Kleider Nina,Sonstiges,8.87,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-24,Brille Ursin,Sonstiges,8.89,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-24,Supermarkt,Lebensmittel,9.85,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-24,Supermarkt,Lebensmittel,10.58,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-24,Postkarten,Sonstiges,2.22,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-24,Saft Nina,Gastro,6.67,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-24,Snack Nina,Gastro,3.33,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-24,Tram,ÖV,3.56,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-24,Bar,Gastro,16.23,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-24,Bar,Gastro,8.45,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-24,Zapiekanka,Gastro,3.33,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
+2025-05-24,Pizza & Bier,Gastro,38.68,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
 2025-05-25,Camping,Standkosten,28.9,CHF,Polen,PL,Kleinpolen,Radlow,50.0830887,20.8476617
 2025-05-26,Kleider waschen,Wäsche,7.5,CHF,Polen,PL,Kleinpolen,Radlow,50.0830887,20.8476617
 2025-05-27,Diesel,Treibstoff,51.59,CHF,Polen,PL,Heiligkreuz,Polaniec,50.4329071,21.2810473
@@ -408,20 +410,40 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-05-29,KZ Majdanek,Aktivitäten,5.55,CHF,Polen,PL,Lublin,Lublin,51.2181945,22.5546776
 2025-05-29,Supermarkt,Lebensmittel,3.32,CHF,Polen,PL,Lublin,Lublin,51.2181945,22.5546776
 2025-05-30,Wein,Lebensmittel,66.16,CHF,Polen,PL,Lublin,Kamionka,51.4711228,22.4644249
-2025-05-31,Supermarkt,Lebensmittel,66.35,CHF,Polen,PL,Masowien,Garwolin,51.897328,21.614981
-2025-05-31,Pizza,Gastro,3.50,CHF,Polen,PL,Masowien,Garwolin,51.897328,21.614981
-2025-05-31,Kajak,Sonstiges,292.94,CHF,Polen,PL,Masowien,Warschau,52.231959,21.006725
-2025-05-31,Sonnenbrille Nina,Sonstiges,15.16,CHF,Polen,PL,Masowien,Warschau,52.231959,21.006725
-2025-06-02,Getränk,Lebensmittel,1.55,CHF,Polen,PL,Podlachien,Lomza,53.17507,22.072755
-2025-06-02,Diesel,Treibstoff,73.81,CHF,Polen,PL,Masowien,Pisz,53.629495,21.809818
-2025-06-02,Supermarkt,Lebensmittel,58.92,CHF,Polen,PL,Masowien,Pisz,53.629495,21.809818
-2025-06-02,Rossmann,Lebensmittel,31.27,CHF,Polen,PL,Masowien,Pisz,53.629495,21.809818
+2025-05-31,Supermarkt,Lebensmittel,66.35,CHF,Polen,PL,Masowien,Garwolin,51.8973315,21.6149645
+2025-05-31,Pizza,Gastro,3.5,CHF,Polen,PL,Masowien,Garwolin,51.8973315,21.6149645
+2025-05-31,Kajak,Sonstiges,292.94,CHF,Polen,PL,Masowien,Warschau,52.2319581,21.0067249
+2025-05-31,Sonnenbrille Nina,Sonstiges,15.16,CHF,Polen,PL,Masowien,Warschau,52.2319581,21.0067249
+2025-06-02,Getränk,Lebensmittel,1.55,CHF,Polen,PL,Podlachien,Lomza,53.1824307,22.0521838
 2025-06-02,AirBnB,Standkosten,334.65,CHF,Polen,PL,Ermland-Masuren,Zelwagi,53.8029231,21.4970708
 2025-06-03,Supermarkt,Lebensmittel,4.23,CHF,Polen,PL,Ermland-Masuren,Zelwagi,53.8029231,21.4970708
-2025-06-05,Postkarten,Sonstiges,22.08,CHF,Polen,PL,Ermland-Masuren,Mikolajki,53.798182,21.577246
-2025-06-05,Supermarkt,Lebensmittel,11.65,CHF,Polen,PL,Ermland-Masuren,Mikolajki,53.798182,21.577246
-2025-06-05,Gelatto,Gastro,7.51,CHF,Polen,PL,Ermland-Masuren,Mikolajki,53.798182,21.577246
-2025-06-07,Supermarkt,Lebensmittel,99.19,CHF,Polen,PL,Ermland-Masuren,Mikolajki,53.798182,21.577246
+2025-06-05,Postkarten,Sonstiges,22.08,CHF,Polen,PL,Ermland-Masuren,Mikolajki,53.7981816,21.5772462
+2025-06-05,Supermarkt,Lebensmittel,11.65,CHF,Polen,PL,Ermland-Masuren,Mikolajki,53.7981816,21.5772462
+2025-06-05,Gelatto,Gastro,7.51,CHF,Polen,PL,Ermland-Masuren,Mikolajki,53.7981816,21.5772462
+2025-06-07,Supermarkt,Lebensmittel,99.19,CHF,Polen,PL,Ermland-Masuren,Mikolajki,53.7981816,21.5772462
 2025-06-09,getöpferte Schale,Lebensmittel,19.78,CHF,Polen,PL,Ermland-Masuren,Rogojny,54.066594,22.2292311
-2025-06-09,Erdbeeren & Heidelbeeren,Lebensmittel,4.64,CHF,Polen,PL,Ermland-Masuren,Gizycko,54.040091,21.77131
-2025-06-12,Fähre,Fähre,303.28,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
+2025-06-09,Erdbeeren & Heidelbeeren,Lebensmittel,4.64,CHF,Polen,PL,Ermland-Masuren,Gizycko,54.0361354,21.7661326
+2025-06-10,Supermarkt,Lebensmittel,70.27,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-10,Postkarten,Sonstiges,2.21,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-10,Autowäsche,Fahrzeugunterhalt,8.84,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-10,Pierogi,Gastro,15.88,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-10,Supermarkt,Lebensmittel,15.89,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-10,Kleider waschen,Wäsche,20.74,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-10,Decathlon,Sonstiges,7.28,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-10,Rossmann,Lebensmittel,25.0,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-10,Rossmann Nina,Kosmetik,33.1,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-11,Parkgebühr,Standkosten,3.31,CHF,Polen,PL,Pommern,Hel,54.6237094,18.7275009
+2025-06-11,Trdelník,Gastro,5.51,CHF,Polen,PL,Pommern,Hel,54.6237094,18.7275009
+2025-06-11,Trinkgeld Restaurant,Gastro,11.03,CHF,Polen,PL,Pommern,Sopot,54.4430399,18.5613095
+2025-06-12,Restaurant,Gastro,32.64,CHF,Polen,PL,Pommern,Sopot,54.4430399,18.5613095
+2025-06-12,Kaffee,Gastro,7.8,CHF,Polen,PL,Pommern,Sopot,54.4430399,18.5613095
+2025-06-12,Decathlon,Sonstiges,15.61,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-12,Supermarkt,Lebensmittel,41.96,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-12,Diesel,Treibstoff,50.13,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-12,Fähre,Fähre,303.28,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-12,Bier,Gastro,12.28,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-12,Wein,Gastro,11.15,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-13,Restaurant,Gastro,7.61,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-13,Kaffee,Gastro,8.17,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-13,Toilette,Sonstiges,0.88,CHF,Schweden,SE,Södermanlands Län,Eskilstuna,59.3717379,16.5051474
+2025-06-13,Bäckerei,Gastro,6.48,CHF,Schweden,SE,Södermanlands Län,Eskilstuna,59.3717379,16.5051474
