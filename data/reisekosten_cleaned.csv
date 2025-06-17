@@ -455,4 +455,8 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-06-13,Kaffee,Gastro,8.17,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
 2025-06-13,Toilette,Sonstiges,0.88,CHF,Schweden,SE,Södermanlands Län,Eskilstuna,59.3717379,16.5051474
 2025-06-13,Bäckerei,Gastro,6.48,CHF,Schweden,SE,Södermanlands Län,Eskilstuna,59.3717379,16.5051474
+2025-06-16,Diesel,Treibstoff,57.85,CHF,Schweden,SE,Dalarnas Län,Rättvik,60.966667,15.383333
+2025-06-17,Briefmarken,Sonstiges,3.78,CHF,Schweden,SE,Dalarnas Län,Rättvik,60.966667,15.383333
+2025-06-17,Supermarkt,Lebensmittel,18.67,CHF,Schweden,SE,Dalarnas Län,Rättvik,60.966667,15.383333
+2025-06-17,Cafe,Gastro,19.68,CHF,Schweden,SE,Dalarnas Län,Rättvik,60.966667,15.383333
 2025-08-04,Fähre,Fähre,192.6,CHF,Norwegen,NO,Agder,Kristiansand,58.0856276,7.931858
