@@ -1,7 +1,7 @@
-const width = 1425;
-const height = 805;
-
-const svg = d3.select("svg");
+const svgElement = document.getElementById("map");
+const svg = d3.select("#map");
+const width = parseInt(svg.style("width"));
+const height = parseInt(svg.style("height"));
 
 const projection = d3.geoMercator();
 const path = d3.geoPath().projection(projection);
@@ -27,6 +27,11 @@ svg.insert("rect", ":first-child")
   .attr("width", width)
   .attr("height", height)
   .attr("fill", "#0A1721");
+
+// Neu laden der Seite bei Anpassung der Fenstergrösse oder rotation des Phones
+window.addEventListener("resize", () => {
+  location.reload(); // simpelster Weg
+});
 
 svg.call(zoom);
     
