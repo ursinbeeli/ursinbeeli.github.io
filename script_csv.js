@@ -26,12 +26,12 @@ const pastelColors = [
 ];
 
 const zoom = d3.zoom()
-  .scaleExtent([.3, 10])
+  .scaleExtent([.3, 100])
   .on("zoom", (event) => {
     const transform = event.transform;
     currentZoom = transform.k; // Zoomstufe speichern
     g.attr("transform", transform);
-    circles.attr("r", d => rScale(d.betrag) / transform.k); // Punktgrössen anpassen – damit sie beim Zoom gleich gross bleiben
+    circles.attr("r", d => rScale(d.betrag) / (1 + (transform.k - 1) * 0.6)); // Punktgrössen anpassen – damit sie beim Zoom leicht wachsen
   });
 
 // Funktion für Force-Directed Clustering / Explode on Click / Spiderification
