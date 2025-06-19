@@ -5,8 +5,11 @@ let data, world;
 let circles, mapPaths;
 let tooltip;
 let activeCategory = null;
+let previewCategory = null;
 let explodedNest = null;
+let previewedNest = null;
 let currentZoom = 1;
+const isTouch = 'ontouchstart' in window; // falls Phone oder Tablet
 
 const pastelColors = [
     "#AEC6CF", // Babyblau
@@ -56,6 +59,22 @@ function spreadPoints(points, center, rScale) {
       return d;
     });
   }
+}
+
+// Funktion für das anpassen der Datenpunkte bei Touch-Gerät
+function updateCircles() {
+  circles
+    .style("display", d => {
+      if (activeCategory) return d.Kategorie === activeCategory ? "block" : "none";
+      if (previewCategory) return d.Kategorie === previewCategory ? "block" : "none";
+      return "block";
+    })
+    .transition().duration(200)
+    .style("opacity", d => {
+      if (activeCategory) return d.Kategorie === activeCategory ? 0.8 : 0;
+      if (previewCategory) return d.Kategorie === previewCategory ? 0.6 : 0.1;
+      return 0.7;
+    });
 }
 
 // Funktion für das Zeichnen der Map und der Datenpunkte
@@ -114,48 +133,74 @@ function draw() {
     .attr("cy", d => projection([d.lon, d.lat])[1])
     .attr("r", d => rScale(d.betrag))
     .attr("fill", d => colorScale(d.Kategorie))
-    .attr("opacity", 0.8)
-    // bei Hover wird ein Label des Datenpunkts eingeblendet
-    .on("mouseover", function(event, d) {
-      tooltip.transition().duration(200).style("opacity", 0.8);
-      tooltip.html(`<strong>${d.Ausgabe}</strong><br>${d.Ortschaft}<br><em>${d.Kategorie}</em><br>${d.betrag} CHF`)
-        .style("left", (event.pageX + 10) + "px")
-        .style("top", (event.pageY - 28) + "px");
-    })
-    // Label bewegt sich mit der Maus mit solange über dem Datenpunkt gehovert wird
-    .on("mousemove", function(event) {
-      tooltip.style("left", (event.pageX + 10) + "px")
-        .style("top", (event.pageY - 28) + "px");
-    })
-    // Label wird ausgeblendet sobald Datenpunkt verlassen wird
-    .on("mouseout", function() {
-      tooltip.transition().duration(300).style("opacity", 0);
-    })
-    // bei Klick wird das Nest aufgefächert
-    .on("click", function(event, clickedDatum) {
-      const sameCoords = data.filter(d => d.lat === clickedDatum.lat && d.lon === clickedDatum.lon);
-      if (sameCoords.length <= 1) return; // Kein Nest, nix spreaden
-      const key = `${clickedDatum.lat}_${clickedDatum.lon}`;
-      if (explodedNest === key) { // Bereits gespreadet? Dann zurückrollen
-        explodedNest = null;
-        circles.transition().duration(400)
-          .attr("cx", d => projection([d.lon, d.lat])[0])
-          .attr("cy", d => projection([d.lon, d.lat])[1])
-          .style("opacity", 0.7);
-        mapPaths.transition().duration(400).style("opacity", 1);  // Weltkarte wieder sichtbar machen
-        return;
-      }
-      explodedNest = key; // Neues Nest auffächern
-      const center = projection([clickedDatum.lon, clickedDatum.lat]);
-      const spreaded = spreadPoints([...sameCoords], center, rScale);
-      circles.transition().duration(300) // übrige Punkte ausgrauen
-        .style("opacity", d => d.lat === clickedDatum.lat && d.lon === clickedDatum.lon ? 1 : 0.05);
-      mapPaths.transition().duration(300).style("opacity", 0.1); // Weltkarte abdunkeln
-      circles.filter(d => sameCoords.includes(d)) // Nestpunkte animieren
-        .transition().duration(400)
-        .attr("cx", d => spreaded.find(s => s === d)?.x ?? projection([d.lon, d.lat])[0])
-        .attr("cy", d => spreaded.find(s => s === d)?.y ?? projection([d.lon, d.lat])[1]);
-    });
+    .attr("opacity", 0.8);
+
+  if (!isTouch) { // Interaktion für Desktop-Geräte
+    circles
+      .on("mouseover", function(event, d) { // bei Hover wird ein Label des Datenpunkts eingeblendet
+        tooltip.transition().duration(200).style("opacity", 0.8);
+        tooltip.html(`<strong>${d.Ausgabe}</strong><br>${d.Ortschaft}<br><em>${d.Kategorie}</em><br>${d.betrag} CHF`)
+          .style("left", (event.pageX + 10) + "px")
+          .style("top", (event.pageY - 28) + "px");
+      })
+      .on("mousemove", function(event) { // Label bewegt sich mit der Maus mit solange über dem Datenpunkt gehovert wird
+        tooltip.style("left", (event.pageX + 10) + "px")
+          .style("top", (event.pageY - 28) + "px");
+      })
+      .on("mouseout", function() { // Label wird ausgeblendet sobald Datenpunkt verlassen wird
+        tooltip.transition().duration(300).style("opacity", 0);
+      })
+      .on("click", function(event, clickedDatum) { // bei Klick wird das Nest aufgefächert
+        const sameCoords = data.filter(d => d.lat === clickedDatum.lat && d.lon === clickedDatum.lon);
+        if (sameCoords.length <= 1) return; // Kein Nest, nix spreaden
+        const key = `${clickedDatum.lat}_${clickedDatum.lon}`;
+        if (explodedNest === key) { // Bereits gespreadet? Dann zurückrollen
+          explodedNest = null;
+          circles.transition().duration(400)
+            .attr("cx", d => projection([d.lon, d.lat])[0])
+            .attr("cy", d => projection([d.lon, d.lat])[1])
+            .style("opacity", 0.7);
+          mapPaths.transition().duration(400).style("opacity", 1); // Weltkarte wieder sichtbar machen
+          return;
+        }
+        explodedNest = key; // Neues Nest auffächern
+        const center = projection([clickedDatum.lon, clickedDatum.lat]);
+        const spreaded = spreadPoints([...sameCoords], center, rScale);
+        circles.transition().duration(300) // übrige Punkte ausgrauen
+          .style("opacity", d => d.lat === clickedDatum.lat && d.lon === clickedDatum.lon ? 1 : 0.05);
+        mapPaths.transition().duration(300).style("opacity", 0.1); // Weltkarte abdunkeln
+        circles.filter(d => sameCoords.includes(d)) // Nestpunkte animieren
+          .transition().duration(400)
+          .attr("cx", d => spreaded.find(s => s === d)?.x ?? projection([d.lon, d.lat])[0])
+          .attr("cy", d => spreaded.find(s => s === d)?.y ?? projection([d.lon, d.lat])[1]);
+      });
+  } else { // Interaktion für Touch-Geräte – Tap zum Anzeigen, 2. Tap zum Explodieren
+    circles
+      .on("click", function(event, clickedDatum) {
+        const sameCoords = data.filter(d => d.lat === clickedDatum.lat && d.lon === clickedDatum.lon);
+        if (sameCoords.length <= 1) return;
+        const key = `${clickedDatum.lat}_${clickedDatum.lon}`;
+        if (previewedNest === key) {
+          explodedNest = key;
+          previewedNest = null;
+          const center = projection([clickedDatum.lon, clickedDatum.lat]);
+          const spreaded = spreadPoints([...sameCoords], center, rScale);
+          circles.transition().duration(300)
+            .style("opacity", d => d.lat === clickedDatum.lat && d.lon === clickedDatum.lon ? 1 : 0.05);
+          mapPaths.transition().duration(300).style("opacity", 0.1);
+          circles.filter(d => sameCoords.includes(d))
+            .transition().duration(400)
+            .attr("cx", d => spreaded.find(s => s === d)?.x ?? projection([d.lon, d.lat])[0])
+            .attr("cy", d => spreaded.find(s => s === d)?.y ?? projection([d.lon, d.lat])[1]);
+        } else {
+          tooltip.transition().duration(200).style("opacity", 0.9);
+          tooltip.html(`<strong>${clickedDatum.Ausgabe}</strong><br>${clickedDatum.Ortschaft}<br><em>${clickedDatum.Kategorie}</em><br>${clickedDatum.betrag} CHF`)
+            .style("left", (event.pageX + 10) + "px")
+            .style("top", (event.pageY - 28) + "px");
+          previewedNest = key;
+        }
+      });
+  }
 
   // Legende
   const legend = d3.select("svg").append("g")
@@ -174,12 +219,14 @@ function draw() {
       .attr("transform", `translate(0, ${i * 30})`)
       .style("cursor", "pointer"); // Zeiger-Maus für UX
 
-      // Balken
-      row.append("rect")
+    // Balken
+    row.append("rect")
       .attr("width", barScale(sum))
       .attr("height", 20)
-      .attr("fill", colorScale(cat))
-      .on("mouseover", function(event) { // Punkte werden angepasst bei Interaktion mit Balken
+      .attr("fill", colorScale(cat));
+
+    if (!isTouch) { // Interaktion für Desktop-Geräte
+      row.on("mouseover", function(event) { // Punkte werden angepasst bei Interaktion mit Balken
         tooltip.transition().duration(200).style("opacity", 0.8);
         tooltip.html(`<strong>${cat}</strong><br>${sum.toFixed(2)} CHF`)
           .style("left", (event.pageX + 10) + "px")
@@ -209,6 +256,18 @@ function draw() {
         activeCategory = activeCategory === cat ? null : cat;
         circles.style("display", d => !activeCategory || d.Kategorie === activeCategory ? "block" : "none");
       });
+    } else { // Interaktion für Touch-Geräte
+      row.on("touchstart", function(event) {
+        event.preventDefault();
+        if (previewCategory === cat) {
+          activeCategory = cat;
+          previewCategory = null;
+        } else {
+          previewCategory = cat;
+        }
+        updateCircles();
+      });
+    }
 
     // Label
     row.append("text")
@@ -218,6 +277,9 @@ function draw() {
       .style("font-size", "13px")
       .text(cat);
   });
+
+  updateCircles();
+
 }
 
 // CSV und Map laden
@@ -246,10 +308,14 @@ window.addEventListener("resize", () => {
   draw();
 });
 
-// Wenn nicht auf ein Datenpunkt geklickt wird, Spread rückgängig machen
+// Spread zurücksetzen bei Klick auf freie Fläche
 d3.select("svg").on("click", function(event) {
   if (event.target.tagName !== "circle") {
+    previewedNest = null;
     explodedNest = null;
+    previewCategory = null;
+    tooltip.transition().duration(200).style("opacity", 0);
+    updateCircles();
     circles.transition().duration(400)
       .attr("cx", d => projection([d.lon, d.lat])[0])
       .attr("cy", d => projection([d.lon, d.lat])[1])
