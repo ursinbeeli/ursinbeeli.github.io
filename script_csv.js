@@ -137,20 +137,24 @@ function draw() {
 
   if (!isTouch) { // Interaktion für Desktop-Geräte
     circles
-      .on("mouseover", function(event, d) { // bei Hover wird ein Label des Datenpunkts eingeblendet
+      // bei Hover wird ein Label des Datenpunkts eingeblendet
+      .on("mouseover", function(event, d) {
         tooltip.transition().duration(200).style("opacity", 0.8);
         tooltip.html(`<strong>${d.Ausgabe}</strong><br>${d.Ortschaft}<br><em>${d.Kategorie}</em><br>${d.betrag} CHF`)
           .style("left", (event.pageX + 10) + "px")
           .style("top", (event.pageY - 28) + "px");
       })
-      .on("mousemove", function(event) { // Label bewegt sich mit der Maus mit solange über dem Datenpunkt gehovert wird
+      // Label bewegt sich mit der Maus mit solange über dem Datenpunkt gehovert wird
+      .on("mousemove", function(event) {
         tooltip.style("left", (event.pageX + 10) + "px")
           .style("top", (event.pageY - 28) + "px");
       })
-      .on("mouseout", function() { // Label wird ausgeblendet sobald Datenpunkt verlassen wird
+      // Label wird ausgeblendet sobald Datenpunkt verlassen wird
+      .on("mouseout", function() {
         tooltip.transition().duration(300).style("opacity", 0);
       })
-      .on("click", function(event, clickedDatum) { // bei Klick wird das Nest aufgefächert
+      // bei Klick wird das Nest aufgefächert
+      .on("click", function(event, clickedDatum) {
         const sameCoords = data.filter(d => d.lat === clickedDatum.lat && d.lon === clickedDatum.lon);
         if (sameCoords.length <= 1) return; // Kein Nest, nix spreaden
         const key = `${clickedDatum.lat}_${clickedDatum.lon}`;
@@ -160,7 +164,7 @@ function draw() {
             .attr("cx", d => projection([d.lon, d.lat])[0])
             .attr("cy", d => projection([d.lon, d.lat])[1])
             .style("opacity", 0.7);
-          mapPaths.transition().duration(400).style("opacity", 1); // Weltkarte wieder sichtbar machen
+          mapPaths.transition().duration(400).style("opacity", 1);  // Weltkarte wieder sichtbar machen
           return;
         }
         explodedNest = key; // Neues Nest auffächern
@@ -200,7 +204,7 @@ function draw() {
           previewedNest = key;
         }
       });
-  }
+    }
 
   // Legende
   const legend = d3.select("svg").append("g")
@@ -223,7 +227,7 @@ function draw() {
     row.append("rect")
       .attr("width", barScale(sum))
       .attr("height", 20)
-      .attr("fill", colorScale(cat));
+      .attr("fill", colorScale(cat))
 
     if (!isTouch) { // Interaktion für Desktop-Geräte
       row.on("mouseover", function(event) { // Punkte werden angepasst bei Interaktion mit Balken
@@ -257,17 +261,17 @@ function draw() {
         circles.style("display", d => !activeCategory || d.Kategorie === activeCategory ? "block" : "none");
       });
     } else { // Interaktion für Touch-Geräte
-      row.on("touchstart", function(event) {
-        event.preventDefault();
-        if (previewCategory === cat) {
-          activeCategory = cat;
-          previewCategory = null;
-        } else {
-          previewCategory = cat;
-        }
-        updateCircles();
-      });
-    }
+        row.on("touchstart", function(event) {
+          event.preventDefault();
+          if (previewCategory === cat) {
+            activeCategory = cat;
+            previewCategory = null;
+          } else {
+            previewCategory = cat;
+          }
+          updateCircles();
+        });
+      }
 
     // Label
     row.append("text")
@@ -277,7 +281,7 @@ function draw() {
       .style("font-size", "13px")
       .text(cat);
   });
-
+  
   updateCircles();
 
 }
