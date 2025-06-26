@@ -48,8 +48,8 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2024-11-22,Stellplatz,Standkosten,18.8,CHF,Kroatien,HR,Split-Dalmatia,Split,43.5116383,16.4399659
 2024-11-22,Camping Gas,Sonstiges,16.76,CHF,Kroatien,HR,Split-Dalmatia,Split,43.5116383,16.4399659
 2024-11-22,Supermarkt,Lebensmittel,16.79,CHF,Kroatien,HR,Split-Dalmatia,Split,43.5116383,16.4399659
-2024-11-22,Supermarkt,Lebensmittel,31.73,CHF,Kroatien,HR,Split-Dalmatia,Makarska,43.5065686,16.4884149
-2024-11-23,Supermarkt,Lebensmittel,5.56,CHF,Kroatien,HR,Split-Dalmatia,Makarska,43.5065686,16.4884149
+2024-11-22,Supermarkt,Lebensmittel,31.73,CHF,Kroatien,HR,Split-Dalmatia,Makarska,43.5065445,16.484895
+2024-11-23,Supermarkt,Lebensmittel,5.56,CHF,Kroatien,HR,Split-Dalmatia,Makarska,43.5065445,16.484895
 2024-11-23,Snacks,Gastro,4.1,CHF,Kroatien,HR,Dubrovnik-Neretva,Dubrovnik,42.6487362,18.0946802
 2024-11-23,Negroni,Gastro,20.53,CHF,Kroatien,HR,Dubrovnik-Neretva,Dubrovnik,42.6487362,18.0946802
 2024-11-24,Stellplatz,Standkosten,14.92,CHF,Kroatien,HR,Dubrovnik-Neretva,Dubrovnik,42.6487362,18.0946802
@@ -119,7 +119,7 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-01-08,Kaffee,Gastro,5.63,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
 2025-01-08,Kleider waschen,Wäsche,2.83,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
 2025-01-09,Restaurant,Gastro,81.99,CHF,Griechenland,GR,Peloponnes,Archaia Korinthos,37.9054879,22.8792778
-2025-01-10,Maut,Maut,26.85,CHF,Griechenland,GR,Peloponnes,Korinth - Kalamata,37.7636557,22.644688
+2025-01-10,Maut,Maut,26.85,CHF,Griechenland,GR,Peloponnes,Korinth - Kalamata,37.7291917,22.6212137
 2025-01-10,Kaffee,Gastro,6.26,CHF,Griechenland,GR,Peloponnes,Tripoli,37.5102911,22.3724241
 2025-01-10,Supermarkt,Lebensmittel,94.01,CHF,Griechenland,GR,Peloponnes,Tripoli,37.5102911,22.3724241
 2025-01-12,Diesel,Treibstoff,70.2,CHF,Griechenland,GR,Peloponnes,Memi,37.2756391,21.697691
@@ -372,7 +372,7 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-05-12,Supermarkt,Lebensmittel,36.3,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
 2025-05-14,Pivovar,Gastro,32.98,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
 2025-05-15,Supermarkt,Lebensmittel,73.63,CHF,Slowakei,SK,Žilina,Liptovský Mikuláš,49.0835785,19.612785
-2025-05-15,Supermarkt,Lebensmittel,2.89,CHF,Slowakei,SK,Žilina,Tvrdošín,49.3341474,19.5554346
+2025-05-15,Supermarkt,Lebensmittel,2.89,CHF,Slowakei,SK,Žilina,Tvrdošín,49.326752,19.5490704
 2025-05-15,Diesel,Treibstoff,76.21,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
 2025-05-15,Supermarkt,Lebensmittel,4.29,CHF,Polen,PL,Kleinpolen,Krakau,50.0469432,19.9971534
 2025-05-16,Reifenwechsel,Fahrzeugunterhalt,566.59,CHF,Polen,PL,Kleinpolen,Glogoczow,49.8948023,19.8759729
@@ -415,9 +415,9 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-05-29,KZ Majdanek,Aktivitäten,5.55,CHF,Polen,PL,Lublin,Lublin,51.2181945,22.5546776
 2025-05-29,Supermarkt,Lebensmittel,3.32,CHF,Polen,PL,Lublin,Lublin,51.2181945,22.5546776
 2025-05-30,Wein,Lebensmittel,66.16,CHF,Polen,PL,Lublin,Kamionka,51.4711228,22.4644249
-2025-05-31,Supermarkt,Lebensmittel,66.35,CHF,Polen,PL,Masowien,Garwolin,51.8973315,21.6149645
-2025-05-31,Pizza,Gastro,3.5,CHF,Polen,PL,Masowien,Garwolin,51.8973315,21.6149645
-2025-05-31,Kajak,Sonstiges,292.94,CHF,Polen,PL,Masowien,Warschau,52.2319581,21.0067249
+2025-05-31,Supermarkt,Lebensmittel,66.35,CHF,Polen,PL,Masowien,Garwolin,51.8958048,21.6210647
+2025-05-31,Pizza,Gastro,3.5,CHF,Polen,PL,Masowien,Garwolin,51.8958048,21.6210647
+2025-05-31,Kajak,Hobby,292.94,CHF,Polen,PL,Masowien,Warschau,52.2319581,21.0067249
 2025-05-31,Sonnenbrille Nina,Sonstiges,15.16,CHF,Polen,PL,Masowien,Warschau,52.2319581,21.0067249
 2025-06-02,Getränk,Lebensmittel,1.55,CHF,Polen,PL,Podlachien,Lomza,53.1824307,22.0521838
 2025-06-02,Diesel,Treibstoff,73.81,CHF,Polen,PL,Ermland-Masuren,Pisz,53.6294943,21.8098191
@@ -431,32 +431,50 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-06-07,Supermarkt,Lebensmittel,99.19,CHF,Polen,PL,Ermland-Masuren,Mikolajki,53.7981816,21.5772462
 2025-06-09,getöpferte Schale,Lebensmittel,19.78,CHF,Polen,PL,Ermland-Masuren,Rogojny,54.066594,22.2292311
 2025-06-09,Erdbeeren & Heidelbeeren,Lebensmittel,4.64,CHF,Polen,PL,Ermland-Masuren,Gizycko,54.040092,21.7713092
-2025-06-10,Supermarkt,Lebensmittel,70.27,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
-2025-06-10,Postkarten,Sonstiges,2.21,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
-2025-06-10,Autowäsche,Fahrzeugunterhalt,8.84,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
-2025-06-10,Pierogi,Gastro,15.88,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
-2025-06-10,Supermarkt,Lebensmittel,15.89,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
-2025-06-10,Kleider waschen,Wäsche,20.74,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
-2025-06-10,Decathlon,Sonstiges,7.28,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
-2025-06-10,Rossmann,Lebensmittel,25.0,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
-2025-06-10,Rossmann Nina,Kosmetik,33.1,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
-2025-06-11,Parkgebühr,Standkosten,3.31,CHF,Polen,PL,Pommern,Hel,54.6237094,18.7275009
-2025-06-11,Trdelník,Gastro,5.51,CHF,Polen,PL,Pommern,Hel,54.6237094,18.7275009
+2025-06-10,Supermarkt,Lebensmittel,70.27,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-10,Postkarten,Sonstiges,2.21,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-10,Autowäsche,Fahrzeugunterhalt,8.84,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-10,Pierogi,Gastro,15.88,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-10,Supermarkt,Lebensmittel,15.89,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-10,Kleider waschen,Wäsche,20.74,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-10,Decathlon,Hobby,7.28,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-10,Rossmann,Lebensmittel,25.0,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-10,Rossmann Nina,Kosmetik,33.1,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-11,Parkgebühr,Standkosten,3.31,CHF,Polen,PL,Pommern,Hel,54.6066432,18.8027076
+2025-06-11,Trdelník,Gastro,5.51,CHF,Polen,PL,Pommern,Hel,54.6066432,18.8027076
 2025-06-11,Trinkgeld Restaurant,Gastro,11.03,CHF,Polen,PL,Pommern,Sopot,54.4430399,18.5613095
 2025-06-12,Restaurant,Gastro,32.64,CHF,Polen,PL,Pommern,Sopot,54.4430399,18.5613095
 2025-06-12,Kaffee,Gastro,7.8,CHF,Polen,PL,Pommern,Sopot,54.4430399,18.5613095
-2025-06-12,Decathlon,Sonstiges,15.61,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
-2025-06-12,Supermarkt,Lebensmittel,41.96,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
-2025-06-12,Diesel,Treibstoff,50.13,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
-2025-06-12,Fähre,Fähre,303.28,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
-2025-06-12,Bier,Gastro,12.28,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
-2025-06-12,Wein,Gastro,11.15,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
-2025-06-13,Restaurant,Gastro,7.61,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
-2025-06-13,Kaffee,Gastro,8.17,CHF,Polen,PL,Pommern,Danzig,54.3482907,18.6540233
+2025-06-12,Decathlon,Gesundheit,15.61,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-12,Supermarkt,Lebensmittel,41.96,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-12,Diesel,Treibstoff,50.13,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-12,Fähre,Fähre,303.28,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-12,Bier,Gastro,12.28,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-12,Wein,Gastro,11.15,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-13,Restaurant,Gastro,7.61,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
+2025-06-13,Kaffee,Gastro,8.17,CHF,Polen,PL,Pommern,Danzig,54.4288032,18.798327
 2025-06-13,Toilette,Sonstiges,0.88,CHF,Schweden,SE,Södermanlands Län,Eskilstuna,59.3717379,16.5051474
 2025-06-13,Bäckerei,Gastro,6.48,CHF,Schweden,SE,Södermanlands Län,Eskilstuna,59.3717379,16.5051474
-2025-06-16,Diesel,Treibstoff,57.85,CHF,Schweden,SE,Dalarnas Län,Rättvik,60.966667,15.383333
-2025-06-17,Briefmarken,Sonstiges,3.78,CHF,Schweden,SE,Dalarnas Län,Rättvik,60.966667,15.383333
+2025-06-16,Diesel,Treibstoff,58.24,CHF,Schweden,SE,Dalarnas Län,Rättvik,60.966667,15.383333
+2025-06-17,Erdbeeren,Lebensmittel,6.84,CHF,Schweden,SE,Dalarnas Län,Rättvik,60.966667,15.383333
+2025-06-17,Briefmarken,Sonstiges,3.8,CHF,Schweden,SE,Dalarnas Län,Rättvik,60.966667,15.383333
 2025-06-17,Supermarkt,Lebensmittel,18.67,CHF,Schweden,SE,Dalarnas Län,Rättvik,60.966667,15.383333
 2025-06-17,Cafe,Gastro,19.68,CHF,Schweden,SE,Dalarnas Län,Rättvik,60.966667,15.383333
+2025-06-17,Supermarkt,Lebensmittel,3.44,CHF,Schweden,SE,Jämtlands Län,Sveg,62.0360709,14.3598392
+2025-06-17,Fischereilizenz,Hobby,10.36,CHF,Schweden,SE,Jämtlands Län,Hedeviken,62.4078118,13.6779277
+2025-06-19,Fischereilizenz,Hobby,8.63,CHF,Schweden,SE,Jämtlands Län,Bodsjöbyn,62.8161502,14.919424
+2025-06-20,Jamtli Museum,Aktivitäten,25.73,CHF,Schweden,SE,Jämtlands Län,Östersund,63.1793655,14.6357061
+2025-06-20,Souvenir,Sonstiges,16.73,CHF,Schweden,SE,Jämtlands Län,Östersund,63.1793655,14.6357061
+2025-06-20,Glace,Gastro,5.23,CHF,Schweden,SE,Jämtlands Län,Östersund,63.1793655,14.6357061
+2025-06-20,Supermarkt,Lebensmittel,57.46,CHF,Schweden,SE,Jämtlands Län,Östersund,63.1793655,14.6357061
+2025-06-20,Fischereilizenz,Hobby,17.15,CHF,Schweden,SE,Jämtlands Län,Nyvik,63.3172359,14.6110543
+2025-06-23,Diesel,Treibstoff,96.88,CHF,Schweden,SE,Västerbottens Län,Storuman,65.4,16.416667
+2025-06-24,Fischereibedarf,Hobby,17.64,CHF,Schweden,SE,Västerbottens Län,Storuman,65.4,16.416667
+2025-06-25,Bäckerei,Gastro,5.67,CHF,Schweden,SE,Norrbottens Län,Jokkmokk,66.666667,19.25
+2025-06-25,Musem Ajtte,Aktivitäten,20.61,CHF,Schweden,SE,Norrbottens Län,Jokkmokk,66.666667,19.25
+2025-06-25,Souvenir,Sonstiges,6.78,CHF,Schweden,SE,Norrbottens Län,Jokkmokk,66.666667,19.25
+2025-06-25,Supermarkt,Lebensmittel,24.66,CHF,Schweden,SE,Norrbottens Län,Jokkmokk,66.666667,19.25
+2025-06-25,Briefmarken,Sonstiges,8.67,CHF,Schweden,SE,Norrbottens Län,Jokkmokk,66.666667,19.25
+2025-06-25,Supermarkt,Lebensmittel,3.38,CHF,Schweden,SE,Norrbottens Län,Jokkmokk,66.666667,19.25
+2025-06-25,Restaurant,Gastro,23.7,CHF,Schweden,SE,Norrbottens Län,Jokkmokk,66.666667,19.25
 2025-08-04,Fähre,Fähre,192.6,CHF,Norwegen,NO,Agder,Kristiansand,58.0856276,7.931858
