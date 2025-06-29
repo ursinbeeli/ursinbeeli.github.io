@@ -481,7 +481,8 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-06-27,Camping,Standkosten,20.55,CHF,Schweden,SE,Norrbottens Län,Gällivare,67.3,20.25
 2025-06-27,Kleider waschen,Wäsche,5.14,CHF,Schweden,SE,Norrbottens Län,Gällivare,67.3,20.25
 2025-06-28,Supermarkt,Lebensmittel,17.85,CHF,Schweden,SE,Norrbottens Län,Gällivare,67.3,20.25
-2025-06-28,Diesel,Treibstoff,70.39,CHF,Schweden,SE,Norrbottens Län,Gällivare,67.3,20.25
 2025-06-28,Supermarkt,Lebensmittel,83.9,CHF,Schweden,SE,Norrbottens Län,Gällivare,67.3,20.25
-2025-06-29,Zollgebühren,Lebensmittel,40.0,CHF,Norwegen,NO,Nordland,Bjørnfjell,68.432192,18.0712523
+2025-06-28,Fischereilizenz,Hobby,5.95,CHF,Schweden,SE,Norrbottens Län,Abisko,68.3501695,18.8300059
+2025-06-29,Zollgebühren,Lebensmittel,41.15,CHF,Norwegen,NO,Nordland,Bjørnfjell,68.432192,18.0712523
+2025-06-29,Supermarkt,Lebensmittel,8.63,CHF,Norwegen,NO,Troms,Setermoen,68.8609408,18.3482428
 2025-08-04,Fähre,Fähre,192.6,CHF,Norwegen,NO,Agder,Kristiansand,58.0856276,7.931858
