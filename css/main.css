@@ -170,7 +170,7 @@ ul {
 }
 
 .photo {
-  width: clamp(20rem, 30vw, 30rem);
+  width: clamp(17rem, 30vw, 30rem);
   border-radius: 1rem;
 }
 
