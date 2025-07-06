@@ -485,12 +485,19 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-06-27,Camping,Standkosten,20.55,CHF,Schweden,SE,Norrbottens Län,Gällivare,67.3,20.25
 2025-06-27,Kleider waschen,Wäsche,5.14,CHF,Schweden,SE,Norrbottens Län,Gällivare,67.3,20.25
 2025-06-28,Supermarkt,Lebensmittel,17.85,CHF,Schweden,SE,Norrbottens Län,Gällivare,67.3,20.25
-2025-06-28,Diesel,Treibstoff,70.0,CHF,Schweden,SE,Norrbottens Län,Gällivare,67.3,20.25
+2025-06-28,Diesel,Treibstoff,71.01,CHF,Schweden,SE,Norrbottens Län,Gällivare,67.3,20.25
 2025-06-28,Supermarkt,Lebensmittel,83.9,CHF,Schweden,SE,Norrbottens Län,Gällivare,67.3,20.25
 2025-06-28,Fischereilizenz,Hobby,5.95,CHF,Schweden,SE,Norrbottens Län,Abisko,68.3501695,18.8300059
-2025-06-29,Bag & Sticker,Souvenir,19.51,CHF,Schweden,SE,Norrbottens Län,Abisko,68.3501695,18.8300059
 2025-06-29,Bäckerei,Gastro,5.05,CHF,Schweden,SE,Norrbottens Län,Abisko,68.3501695,18.8300059
+2025-06-29,Bag,Kleidung,16.96,CHF,Schweden,SE,Norrbottens Län,Abisko,68.3501695,18.8300059
+2025-06-29,Sticker,Souvenir,2.55,CHF,Schweden,SE,Norrbottens Län,Abisko,68.3501695,18.8300059
 2025-06-29,Zollgebühren,Lebensmittel,41.15,CHF,Norwegen,NO,Nordland,Bjørnfjell,68.432192,18.0712523
-2025-06-29,Diesel,Treibstoff,33.3,CHF,Norwegen,NO,Troms,Setermoen,68.8609408,18.3482428
+2025-06-29,Diesel,Treibstoff,42.06,CHF,Norwegen,NO,Troms,Setermoen,68.8609408,18.3482428
 2025-06-29,Supermarkt,Lebensmittel,8.63,CHF,Norwegen,NO,Troms,Setermoen,68.8609408,18.3482428
+2025-07-02,Parkgebühr,Standkosten,4.86,CHF,Norwegen,NO,Troms,Skaland,69.4030772,17.5075359
+2025-07-02,Supermarkt,Lebensmittel,11.92,CHF,Norwegen,NO,Troms,Skaland,69.4030772,17.5075359
+2025-07-02,Fischereibedarf,Hobby,15.07,CHF,Norwegen,NO,Troms,Skaland,69.4030772,17.5075359
+2025-07-05,Supermarkt,Lebensmittel,12.55,CHF,Norwegen,NO,Troms,Skaland,69.4030772,17.5075359
+2025-07-05,Camping,Standkosten,19.91,CHF,Norwegen,NO,Troms,Skaland,69.4030772,17.5075359
+2025-07-07,Fähre,Fähre,40.1,CHF,Norwegen,NO,Troms,Gryllefjorden,69.3626961,17.0550418
 2025-08-04,Fähre,Fähre,192.6,CHF,Norwegen,NO,Agder,Kristiansand,58.0856276,7.931858
