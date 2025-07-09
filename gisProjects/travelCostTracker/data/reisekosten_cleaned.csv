@@ -499,5 +499,12 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-07-02,Fischereibedarf,Hobby,15.07,CHF,Norwegen,NO,Troms,Skaland,69.4030772,17.5075359
 2025-07-05,Supermarkt,Lebensmittel,12.55,CHF,Norwegen,NO,Troms,Skaland,69.4030772,17.5075359
 2025-07-05,Camping,Standkosten,19.91,CHF,Norwegen,NO,Troms,Skaland,69.4030772,17.5075359
-2025-07-07,Fähre,Fähre,40.1,CHF,Norwegen,NO,Troms,Gryllefjorden,69.3626961,17.0550418
+2025-07-07,Fähre,Fähre,35.14,CHF,Norwegen,NO,Troms,Gryllefjorden,69.3626961,17.0550418
+2025-07-08,Supermarkt,Lebensmittel,1.6,CHF,Norwegen,NO,Nordland,Andenes,69.3122989,16.1057085
+2025-07-08,Whale Watching,Aktivitäten,269.7,CHF,Norwegen,NO,Nordland,Andenes,69.3122989,16.1057085
+2025-07-08,Wal-Souvenir,Souvenir,21.76,CHF,Norwegen,NO,Nordland,Andenes,69.3122989,16.1057085
+2025-07-08,Postkarte,Postkarten,4.33,CHF,Norwegen,NO,Nordland,Andenes,69.3122989,16.1057085
+2025-07-09,Wal-Souvenir,Souvenir,20.43,CHF,Norwegen,NO,Nordland,Andenes,69.3122989,16.1057085
+2025-07-09,Postkarten,Postkarten,7.72,CHF,Norwegen,NO,Nordland,Andenes,69.3122989,16.1057085
+2025-07-09,Supermarkt,Lebensmittel,54.71,CHF,Norwegen,NO,Nordland,Andenes,69.3122989,16.1057085
 2025-08-04,Fähre,Fähre,192.6,CHF,Norwegen,NO,Agder,Kristiansand,58.0856276,7.931858
