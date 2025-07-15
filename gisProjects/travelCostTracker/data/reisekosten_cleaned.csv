@@ -507,4 +507,10 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-07-09,Wal-Souvenir,Souvenir,20.43,CHF,Norwegen,NO,Nordland,Andenes,69.3122989,16.1057085
 2025-07-09,Postkarten,Postkarten,7.72,CHF,Norwegen,NO,Nordland,Andenes,69.3122989,16.1057085
 2025-07-09,Supermarkt,Lebensmittel,54.71,CHF,Norwegen,NO,Nordland,Andenes,69.3122989,16.1057085
+2025-07-11,Supermarkt,Lebensmittel,11.78,CHF,Norwegen,NO,Nordland,Sortland,68.767296,15.3679179
+2025-07-11,Entsorgungsgebühr,Standkosten,3.98,CHF,Norwegen,NO,Nordland,Sortland,68.767296,15.3679179
+2025-07-12,Fähre,Fähre,7.1,CHF,Norwegen,NO,Nordland,Lødingen,68.3944357,15.6096557
+2025-07-12,Kaffee Nina,Gastro,3.34,CHF,Norwegen,NO,Nordland,Strávnjunnje - Innhavet,67.9633674,15.9307907
+2025-07-14,Diesel,Treibstoff,110.52,CHF,Norwegen,NO,Nordland,Strávnjunnje - Innhavet,67.9633674,15.9307907
+2025-07-14,Supermarkt,Lebensmittel,49.52,CHF,Norwegen,NO,Nordland,Strávnjunnje - Innhavet,67.9633674,15.9307907
 2025-08-04,Fähre,Fähre,192.6,CHF,Norwegen,NO,Agder,Kristiansand,58.0856276,7.931858
