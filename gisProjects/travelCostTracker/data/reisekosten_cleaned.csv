@@ -135,7 +135,7 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-01-22,Töpferkurs,Hobby,56.7,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
 2025-01-23,Take Away,Gastro,3.12,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
 2025-01-23,Kleider waschen,Wäsche,15.12,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
-2025-01-23,Kaffe & Kuchen,Gastro,5.5,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
+2025-01-23,Kaffee & Kuchen,Gastro,5.5,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
 2025-01-24,Eier,Lebensmittel,2.84,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
 2025-01-24,Autowerkstatt,Fahrzeugunterhalt,1206.98,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
 2025-01-24,Töpferkurs,Hobby,56.7,CHF,Griechenland,GR,Peloponnes,Kalamata,37.0372714,22.110707
@@ -511,6 +511,38 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_2_Stellen,Region,Ortschaft,lat
 2025-07-11,Entsorgungsgebühr,Standkosten,3.98,CHF,Norwegen,NO,Nordland,Sortland,68.767296,15.3679179
 2025-07-12,Fähre,Fähre,7.1,CHF,Norwegen,NO,Nordland,Lødingen,68.3944357,15.6096557
 2025-07-12,Kaffee Nina,Gastro,3.34,CHF,Norwegen,NO,Nordland,Strávnjunnje - Innhavet,67.9633674,15.9307907
-2025-07-14,Diesel,Treibstoff,110.52,CHF,Norwegen,NO,Nordland,Strávnjunnje - Innhavet,67.9633674,15.9307907
+2025-07-14,Diesel,Treibstoff,111.79,CHF,Norwegen,NO,Nordland,Strávnjunnje - Innhavet,67.9633674,15.9307907
 2025-07-14,Supermarkt,Lebensmittel,49.52,CHF,Norwegen,NO,Nordland,Strávnjunnje - Innhavet,67.9633674,15.9307907
+2025-07-18,Dusche,Standkosten,1.59,CHF,Norwegen,NO,Nordland,Mo i Rana,66.3110969,14.1386991
+2025-07-18,Supermarkt,Lebensmittel,26.94,CHF,Norwegen,NO,Nordland,Mo i Rana,66.3110969,14.1386991
+2025-07-18,Cafe,Gastro,13.42,CHF,Norwegen,NO,Nordland,Mosjøen,65.8375342,13.1892098
+2025-07-18,Supermarkt,Lebensmittel,14.24,CHF,Norwegen,NO,Nordland,Mosjøen,65.8375342,13.1892098
+2025-07-19,Hofprodukte,Lebensmittel,37.57,CHF,Norwegen,NO,Trøndelag,Gangstadhaugen,63.9582939,11.3312366
+2025-07-19,Diesel,Treibstoff,92.72,CHF,Norwegen,NO,Trøndelag,Svedalen,63.4191187,10.7376623
+2025-07-19,Supermarkt,Lebensmittel,55.6,CHF,Norwegen,NO,Trøndelag,Trondheim,63.4304475,10.3952118
+2025-07-20,Maut,Maut,11.16,CHF,Norwegen,NO,Vestland,Tungestølen,61.5427478,6.9717429
+2025-07-20,Stellplatz,Standkosten,5.55,CHF,Norwegen,NO,Vestland,Tungestølen,61.5427478,6.9717429
+2025-07-22,Diesel,Treibstoff,68.83,CHF,Norwegen,NO,Vestland,Hafslo,61.3157159,7.2025378
+2025-07-22,Entsorgungsgebühr,Standkosten,2.38,CHF,Norwegen,NO,Vestland,Hafslo,61.3157159,7.2025378
+2025-07-22,Wein,Lebensmittel,37.22,CHF,Norwegen,NO,Vestland,Sogndal,61.329791,6.7203648
+2025-07-22,Apotheke,Gesundheit,6.89,CHF,Norwegen,NO,Vestland,Sogndal,61.329791,6.7203648
+2025-07-22,Fähre,Fähre,2.15,CHF,Norwegen,NO,Vestland,Hella,60.2022124,5.0165622
+2025-07-22,Supermarkt,Lebensmittel,63.26,CHF,Norwegen,NO,Vestland,Sande,61.3254728,5.7967607
+2025-07-25,Fischereilizenz,Hobby,7.12,CHF,Norwegen,NO,Vestland,Mjell,61.3456843,6.3172881
+2025-07-26,Supermarkt,Lebensmittel,56.08,CHF,Norwegen,NO,Vestland,Sande,61.3254728,5.7967607
+2025-07-27,Kleider waschen,Wäsche,8.71,CHF,Norwegen,NO,Vestland,Balestrand,61.2096194,6.5360834
+2025-07-27,Restaurant,Gastro,87.05,CHF,Norwegen,NO,Vestland,Balestrand,61.2096194,6.5360834
+2025-07-28,Supermarkt,Lebensmittel,22.73,CHF,Norwegen,NO,Vestland,Balestrand,61.2096194,6.5360834
+2025-07-28,Fähre,Fähre,2.15,CHF,Norwegen,NO,Vestland,Dragsvik,61.2171304,6.5584461
+2025-07-28,Fähre,Fähre,2.63,CHF,Norwegen,NO,Vestland,Mannheller,61.1601043,7.3363598
+2025-07-30,Fischereilizenz,Hobby,8.75,CHF,Norwegen,NO,Vestland,Hardangervidda,60.4023162,7.6170471
+2025-07-31,Pizza,Gastro,14.8,CHF,Norwegen,NO,Vestland,Finse,60.60301,7.5020162
+2025-07-31,Kaffee & Kuchen,Gastro,11.05,CHF,Norwegen,NO,Vestland,Finse,60.60301,7.5020162
+2025-07-31,Kleider Nina,Kleidung,26.28,CHF,Norwegen,NO,Vestland,Finse,60.60301,7.5020162
+2025-07-31,Diesel,Treibstoff,77.64,CHF,Norwegen,NO,Buskerud,Ustaoset,60.4965404,8.0450665
+2025-07-31,Supermarkt,Lebensmittel,49.29,CHF,Norwegen,NO,Buskerud,Geilo,60.5345261,8.2063719
+2025-07-31,Honig,Lebensmittel,9.29,CHF,Norwegen,NO,Buskerud,Imingan,60.261545,8.5945009
+2025-08-01,Restaurant,Gastro,32.07,CHF,Norwegen,NO,Telemark,Mjonøy,59.633698,7.801073
+2025-08-01,Bäckerei,Gastro,11.17,CHF,Norwegen,NO,Telemark,Mjonøy,59.633698,7.801073
+2025-08-02,Supermarkt,Lebensmittel,10.0,CHF,Norwegen,NO,Agder,Hovden,59.5602422,7.356017
 2025-08-04,Fähre,Fähre,192.6,CHF,Norwegen,NO,Agder,Kristiansand,58.0856276,7.931858
