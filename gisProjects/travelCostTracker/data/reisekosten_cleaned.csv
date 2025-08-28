@@ -572,6 +572,7 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_3_Stellen,Region,Ortschaft,lat
 2025-08-06,Kaffee,Gastro,4.21,CHF,Deutschland,DEU,Schleswig-Holstein,Lübeck,53.866444,10.684738
 2025-08-06,Kosmetik,Kosmetik,22.8,CHF,Deutschland,DEU,Schleswig-Holstein,Lübeck,53.866444,10.684738
 2025-08-06,Diesel,Treibstoff,76.69,CHF,Deutschland,DEU,Schleswig-Holstein,Breitenfelde,53.6072865,10.6352046
+2025-08-06,Ölwechsel,Fahrzeugunterhalt,121.75,CHF,Deutschland,DEU,Berlin,Berlin,52.5103817,13.4349112
 2025-08-06,Restaurant,Gastro,27.29,CHF,Tschechien,CZE,Aussig,Zahrady,50.6668599,14.0764255
 2025-08-08,Supermarkt,Lebensmittel,100.35,CHF,Tschechien,CZE,Písek,Písek,49.2964839,14.1429444
 2025-08-08,Wischwasser,Fahrzeugunterhalt,7.3,CHF,Tschechien,CZE,Písek,Písek,49.2964839,14.1429444
