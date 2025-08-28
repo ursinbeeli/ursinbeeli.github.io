@@ -170,7 +170,7 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_3_Stellen,Region,Ortschaft,lat
 2025-02-04,Gyros Bude,Gastro,14.66,CHF,Griechenland,GRC,Peloponnes,Kalamata,37.0372714,22.110707
 2025-02-04,Wasser,Lebensmittel,0.47,CHF,Griechenland,GRC,Peloponnes,Kalamata,37.0372714,22.110707
 2025-02-05,Bäckerei,Gastro,6.31,CHF,Griechenland,GRC,Peloponnes,Kalamata,37.0372714,22.110707
-2025-02-05,China Store,Hobby,10.83,CHF,Griechenland,GRC,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-05,Fischereibedarf,Hobby,10.83,CHF,Griechenland,GRC,Peloponnes,Kalamata,37.0372714,22.110707
 2025-02-05,Supermarkt,Lebensmittel,2.28,CHF,Griechenland,GRC,Peloponnes,Kalamata,37.0372714,22.110707
 2025-02-05,Schmuck Nina,Kosmetik,32.04,CHF,Griechenland,GRC,Peloponnes,Kalamata,37.0372714,22.110707
 2025-02-05,Kaffee,Gastro,1.88,CHF,Griechenland,GRC,Peloponnes,Kalamata,37.0372714,22.110707
@@ -188,7 +188,7 @@ Datum,Ausgabe,Kategorie,Betrag,Währung,Staat,ISO_3_Stellen,Region,Ortschaft,lat
 2025-02-10,Kleider waschen,Wäsche,9.45,CHF,Griechenland,GRC,Peloponnes,Kalamata,37.0372714,22.110707
 2025-02-10,Bäckerei Athanasiou,Lebensmittel,5.65,CHF,Griechenland,GRC,Peloponnes,Kalamata,37.0372714,22.110707
 2025-02-10,Supermarkt,Lebensmittel,56.7,CHF,Griechenland,GRC,Peloponnes,Kalamata,37.0372714,22.110707
-2025-02-11,China Store,Haushalt,14.19,CHF,Griechenland,GRC,Peloponnes,Kalamata,37.0372714,22.110707
+2025-02-11,Moskitonetz,Haushalt,14.19,CHF,Griechenland,GRC,Peloponnes,Kalamata,37.0372714,22.110707
 2025-02-11,Historische Stätte,Aktivitäten,11.35,CHF,Griechenland,GRC,Peloponnes,Mystras,37.072657,22.3679925
 2025-02-13,Bäckerei,Lebensmittel,3.25,CHF,Griechenland,GRC,Peloponnes,Leonidio,37.1663308,22.8604198
 2025-02-15,Markt,Lebensmittel,6.75,CHF,Griechenland,GRC,Peloponnes,Nafplio,37.5659229,22.8068782
